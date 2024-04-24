@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/digital_skills_europe/static/css/main.d3d3de61.css",
+    "main.js": "/digital_skills_europe/static/js/main.1f1f617d.js",
+    "static/js/453.7bfe045b.chunk.js": "/digital_skills_europe/static/js/453.7bfe045b.chunk.js",
+    "static/media/population_demographics.csv": "/digital_skills_europe/static/media/population_demographics.147e9670dc0fa0d2633c.csv",
+    "static/media/urban_rural-remotedness-typology-2021.tsv": "/digital_skills_europe/static/media/urban_rural-remotedness-typology-2021.e123b0cdc588f0f27b97.tsv",
+    "static/media/all_ages_25_64.csv": "/digital_skills_europe/static/media/all_ages_25_64.18869154e09aa67bd0fd.csv",
+    "static/media/basic_regional_literacy_rates_2021.csv": "/digital_skills_europe/static/media/basic_regional_literacy_rates_2021.b21abc0415113671eb6e.csv",
+    "static/media/basic_literacy_rates.csv": "/digital_skills_europe/static/media/basic_literacy_rates.61ee93632df90f22f551.csv",
+    "index.html": "/digital_skills_europe/index.html",
+    "main.d3d3de61.css.map": "/digital_skills_europe/static/css/main.d3d3de61.css.map",
+    "main.1f1f617d.js.map": "/digital_skills_europe/static/js/main.1f1f617d.js.map",
+    "453.7bfe045b.chunk.js.map": "/digital_skills_europe/static/js/453.7bfe045b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3d3de61.css",
+    "static/js/main.1f1f617d.js"
+  ]
+}

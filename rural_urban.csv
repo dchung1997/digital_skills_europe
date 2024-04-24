@@ -1,0 +1,910 @@
+row_id,population_code,population,indicator_code,indicator,unit_code,unit,geo_code,geo,2021,2023
+21007,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AT,Austria,53.21,50.22
+21008,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,30.94
+21009,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BE,Belgium,21.47,34.44
+21010,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BG,Bulgaria,24.42,29.03
+21011,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CH,Switzerland,49.38,53.43
+21012,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CY,Cyprus,47.4,47.11
+21013,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CZ,Czechia,22.51,48.38 b
+21014,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DE,Germany,28.83,46.49
+21015,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DK,Denmark,59.58,61.16
+21016,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EA,Euro area,43.05,47.61 e
+21017,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EE,Estonia,46.52,51.73
+21018,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EL,Greece,28.26,25.94
+21019,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ES,Spain,49.21,50.39
+21020,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),41.94,47.03 e
+21021,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FI,Finland,67.56,68.66
+21022,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FR,France,50.53,47.92
+21023,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HR,Croatia,42.06,51.37
+21024,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HU,Hungary,40.08,49.54
+21025,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IE,Ireland,53.14,:
+21026,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IS,Iceland,58.75,:
+21027,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IT,Italy,45.02,47.4
+21028,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LT,Lithuania,48.04,45.15
+21029,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LU,Luxembourg,50.36,44.37
+21030,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LV,Latvia,43.86,43.45
+21031,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MK,North Macedonia,13.18,:
+21032,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MT,Malta,30.28,39.49
+21033,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NL,Netherlands,63.15,67.97
+21034,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NO,Norway,64.48,67.5
+21035,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PL,Poland,41.5,49.26
+21036,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PT,Portugal,22.04,23.45
+21037,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RO,Romania,22.25,26.45
+21038,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SE,Sweden,55.18,56.45
+21039,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SI,Slovenia,37.36,42.31
+21040,IND_DEG1,Live in cities,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SK,Slovakia,37.36,34.09
+21075,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AT,Austria,53.34,51.92
+21076,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,20.48
+21077,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BE,Belgium,30.27,28.91
+21078,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BG,Bulgaria,24.74,25.56
+21079,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CH,Switzerland,43.97,44.96
+21080,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CY,Cyprus,17,31.34
+21081,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CZ,Czechia,35.63,37.46
+21082,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DE,Germany,34.83,40.64
+21083,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DK,Denmark,38.22,40.6
+21084,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EA,Euro area,39.75,41.74 e
+21085,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EE,Estonia,38.56,45.47
+21086,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EL,Greece,22.53,24.09
+21087,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ES,Spain,44.57,47.01
+21088,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),37.63,39.99 e
+21089,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FI,Finland,59.6,66.67
+21090,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FR,France,45.73,45.54
+21091,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HR,Croatia,26.2,21.43
+21092,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HU,Hungary,29.73,34.53
+21093,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IE,Ireland,47.34,:
+21094,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IS,Iceland,44.08,:
+21095,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IT,Italy,31.5,32.88
+21096,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LT,Lithuania,39.64,37.24
+21097,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LU,Luxembourg,49.59,45.73
+21098,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LV,Latvia,26,23.96
+21099,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MK,North Macedonia,11.54,:
+21100,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MT,Malta,34.07,38.41
+21101,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NL,Netherlands,48.18,50.78
+21102,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NO,Norway,44.28,48.68
+21103,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PL,Poland,29.62,34.34
+21104,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PT,Portugal,42.97,46.16
+21105,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RO,Romania,19.31,22.61
+21106,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SE,Sweden,37.84,40.44
+21107,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SI,Slovenia,36.64,32.59
+21108,IND_DEG1,Live in cities,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SK,Slovakia,30.61,26.73
+21143,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AT,Austria,61.28,64.06
+21144,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,45.98
+21145,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BE,Belgium,46.54,46.9
+21146,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BG,Bulgaria,33.19,34.1
+21147,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CH,Switzerland,66.51,67.5
+21148,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CY,Cyprus,47.5,47.03
+21149,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CZ,Czechia,53.85,66.21
+21150,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DE,Germany,49.28,57.8
+21151,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DK,Denmark,71.74,72.64
+21152,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EA,Euro area,57.63,59.81 e
+21153,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EE,Estonia,56.4,59.25
+21154,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EL,Greece,46.99,48.9
+21155,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ES,Spain,64.74,66.68
+21156,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),56.03,58.78 e
+21157,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FI,Finland,76.39,82.98
+21158,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FR,France,62.95,59.28
+21159,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HR,Croatia,49.01,60.41
+21160,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HU,Hungary,44.97,53.28
+21161,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IE,Ireland,68.69,:
+21162,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IS,Iceland,74.56,:
+21163,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IT,Italy,53.14,54.27
+21164,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LT,Lithuania,51.88,52.73
+21165,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LU,Luxembourg,67.26,63.37
+21166,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LV,Latvia,49.4,46.67
+21167,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MK,North Macedonia,35.1,:
+21168,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MT,Malta,60.47,62.35
+21169,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NL,Netherlands,73.3,78.18
+21170,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NO,Norway,79.39,81.73
+21171,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PL,Poland,51.2,60.67
+21172,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PT,Portugal,41.89,42.38
+21173,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RO,Romania,33.31,32.68
+21174,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SE,Sweden,72.23,70.05
+21175,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SI,Slovenia,49.61,42.55
+21176,IND_DEG1,Live in cities,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SK,Slovakia,51.62,45.56
+21211,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AT,Austria,56.53,51.84
+21212,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,28.17
+21213,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BE,Belgium,46.12,46.06
+21214,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BG,Bulgaria,28.5,30.31
+21215,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CH,Switzerland,47.88,51.42
+21216,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CY,Cyprus,35.87,49.08
+21217,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CZ,Czechia,40.76,53.01
+21218,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DE,Germany,29,31.05
+21219,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DK,Denmark,66.75,55.64
+21220,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EA,Euro area,45.48,45.68 e
+21221,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EE,Estonia,42.51,51.22
+21222,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EL,Greece,37.72,36.47
+21223,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ES,Spain,52.94,55.69
+21224,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),44.56,45.26 e
+21225,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FI,Finland,62.7,63.96
+21226,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FR,France,53.45,51.21
+21227,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HR,Croatia,35.02,38.84
+21228,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HU,Hungary,34.96,43.6
+21229,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IE,Ireland,57.39,:
+21230,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IS,Iceland,49.26,:
+21231,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IT,Italy,42.89,44.82
+21232,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LT,Lithuania,38.03,35.73
+21233,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LU,Luxembourg,50.21,46.11
+21234,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LV,Latvia,36.4,36.77
+21235,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MK,North Macedonia,24.98,:
+21236,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MT,Malta,36.6,42.02
+21237,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NL,Netherlands,58.04,57.43
+21238,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NO,Norway,71.62,76.13
+21239,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PL,Poland,40.92,43.9
+21240,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PT,Portugal,50.61,51.12
+21241,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RO,Romania,31.72,32.23
+21242,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SE,Sweden,56.89,57.48
+21243,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SI,Slovenia,48.1,41.8
+21244,IND_DEG1,Live in cities,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SK,Slovakia,46.33,43.87
+21279,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AT,Austria,13.55,12.92
+21280,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,3.76
+21281,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BE,Belgium,5.17,5.8
+21282,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BG,Bulgaria,1.89,2.19
+21283,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CH,Switzerland,10.79,12.59
+21284,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CY,Cyprus,8.82,8.35
+21285,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CZ,Czechia,7.75,9.93
+21286,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DE,Germany,6.25,7.21
+21287,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DK,Denmark,13.71,15.73
+21288,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EA,Euro area,7.76,8.79 e
+21289,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EE,Estonia,8.1,11.1
+21290,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EL,Greece,4.44,4.81
+21291,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ES,Spain,8.66,10.13
+21292,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),7.55,8.64 e
+21293,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FI,Finland,12.94,15.63
+21294,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FR,France,7.76,8.9
+21295,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HR,Croatia,4.98,7.96
+21296,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HU,Hungary,5.65,7.77
+21297,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IE,Ireland,12.08,:
+21298,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IS,Iceland,10.5,:
+21299,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IT,Italy,6.58,7.04
+21300,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LT,Lithuania,7.06,7.66
+21301,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LU,Luxembourg,9.61,12.75
+21302,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LV,Latvia,4.95,5.89
+21303,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MK,North Macedonia,7.04,:
+21304,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MT,Malta,8.18,8.72
+21305,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NL,Netherlands,11.52,13.83
+21306,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NO,Norway,16.66,17.84
+21307,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PL,Poland,6.98,8.24
+21308,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PT,Portugal,8.5,11
+21309,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RO,Romania,1.97,3.33
+21310,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SE,Sweden,13.75,14.28
+21311,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SI,Slovenia,8.97,7.09
+21312,IND_DEG1,Live in cities,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SK,Slovakia,9.07,8.53
+21347,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AT,Austria,66.12,63.54
+21348,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,44.02
+21349,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BE,Belgium,57.3,56.58
+21350,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BG,Bulgaria,39.55,41.02
+21351,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CH,Switzerland,68.99,69.96
+21352,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CY,Cyprus,56.76,47.16
+21353,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CZ,Czechia,63.75,71.4
+21354,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DE,Germany,52.26,56.33
+21355,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DK,Denmark,53.21,50.93
+21356,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EA,Euro area,58.86,58.01 e
+21357,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EE,Estonia,55.32,64.72
+21358,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EL,Greece,61.53,65.77
+21359,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ES,Spain,60.08,56.79
+21360,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),57.49,56.91 e
+21361,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FI,Finland,77.64,77.66
+21362,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FR,France,65.15,59.62
+21363,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HR,Croatia,51.9,59.9
+21364,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HU,Hungary,60.37,65.56
+21365,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IE,Ireland,65.39,:
+21366,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IS,Iceland,79.8,:
+21367,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IT,Italy,47.99,48.68
+21368,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LT,Lithuania,54.9,53.08
+21369,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LU,Luxembourg,68.1,64.64
+21370,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LV,Latvia,48.86,52.98
+21371,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MK,North Macedonia,29.74,:
+21372,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MT,Malta,52.56,53.22
+21373,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NL,Netherlands,73.37,73.6
+21374,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NO,Norway,84.03,85.46
+21375,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PL,Poland,53.01,52.54
+21376,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PT,Portugal,60.05,58.28
+21377,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RO,Romania,31.5,28.8
+21378,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SE,Sweden,74.91,73.99
+21379,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SI,Slovenia,63.99,48.73
+21380,IND_DEG1,Live in cities,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SK,Slovakia,68.96,53.87
+21415,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AT,Austria,70.96,73.78
+21416,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,57.19
+21417,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BE,Belgium,51.3,65.2
+21418,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BG,Bulgaria,50.99,51.51
+21419,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CH,Switzerland,84.3,80.31
+21420,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CY,Cyprus,59.84,52.65
+21421,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CZ,Czechia,63.24,73.71
+21422,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DE,Germany,57.5,63.19
+21423,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DK,Denmark,71.09,73.16
+21424,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EA,Euro area,64.16,65.87 e
+21425,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EE,Estonia,61.43,67.63
+21426,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EL,Greece,65.42,66.21
+21427,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ES,Spain,69.1,68.66
+21428,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),63.16,65.04 e
+21429,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FI,Finland,78.36,80.88
+21430,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FR,France,72.96,70.56
+21431,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HR,Croatia,87.77,85.69
+21432,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HU,Hungary,62.09,73.86
+21433,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IE,Ireland,68.26,:
+21434,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IS,Iceland,66.9,:
+21435,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IT,Italy,55.37,58.91
+21436,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LT,Lithuania,59.73,61.02
+21437,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LU,Luxembourg,72.28,68.84
+21438,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LV,Latvia,63.67,67.11
+21439,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MK,North Macedonia,48.62,:
+21440,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MT,Malta,53.24,52.92
+21441,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NL,Netherlands,72.55,73.67
+21442,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NO,Norway,67.4,71.95
+21443,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PL,Poland,59.57,63.96
+21444,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PT,Portugal,45.68,44.74
+21445,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RO,Romania,44.4,42.81
+21446,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SE,Sweden,68.8,67.31
+21447,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SI,Slovenia,61.74,54.17
+21448,IND_DEG1,Live in cities,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SK,Slovakia,77.44,67.9
+21483,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AT,Austria,51.54,46.64
+21484,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,28.51
+21485,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BE,Belgium,45.87,44.11
+21486,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BG,Bulgaria,22.06,23.42
+21487,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CH,Switzerland,52.84,57.92
+21488,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CY,Cyprus,45.07,36.88
+21489,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CZ,Czechia,52.36,56.83
+21490,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DE,Germany,38.57,41.38
+21491,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DK,Denmark,55.37,55.03
+21492,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EA,Euro area,44.81,45.28 e
+21493,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EE,Estonia,47.72,54.06
+21494,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EL,Greece,41.83,45.66
+21495,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ES,Spain,45.62,45.5
+21496,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),44.03,44.69 e
+21497,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FI,Finland,58.94,63.19
+21498,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FR,France,49.68,48.61
+21499,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HR,Croatia,75.45,42.5
+21500,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HU,Hungary,47.41,52.73
+21501,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IE,Ireland,57.23,:
+21502,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IS,Iceland,69.43,:
+21503,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IT,Italy,37.47,39.41
+21504,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LT,Lithuania,47.41,43.97
+21505,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LU,Luxembourg,56.28,52.51
+21506,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LV,Latvia,38.64,42.25
+21507,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MK,North Macedonia,12.43,:
+21508,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MT,Malta,43.83,44.82
+21509,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NL,Netherlands,57.35,57.63
+21510,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NO,Norway,66.31,70.97
+21511,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PL,Poland,37.88,41.63
+21512,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PT,Portugal,44.78,46.05
+21513,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RO,Romania,30.13,28.48
+21514,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SE,Sweden,51.58,55.19
+21515,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SI,Slovenia,44.31,37.91
+21516,IND_DEG1,Live in cities,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SK,Slovakia,52.63,47.53
+21551,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AT,Austria,31,27.07
+21552,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,10.83
+21553,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BE,Belgium,23.27,18.37
+21554,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BG,Bulgaria,10.8,13.15
+21555,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CH,Switzerland,25.13,29.82
+21556,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CY,Cyprus,26.54,17.01
+21557,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CZ,Czechia,29.58,34.96
+21558,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DE,Germany,29.45,30.8
+21559,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DK,Denmark,34.59,36.69
+21560,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EA,Euro area,27.41,26.97 e
+21561,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EE,Estonia,31.41,35.05
+21562,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EL,Greece,20.59,22.54
+21563,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ES,Spain,26.84,24.33
+21564,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),25.78,25.72 e
+21565,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FI,Finland,38.3,41.57
+21566,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FR,France,26.31,25.51
+21567,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HR,Croatia,53.07,21.77
+21568,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HU,Hungary,28.78,38.93
+21569,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IE,Ireland,34.6,:
+21570,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IS,Iceland,49.68,:
+21571,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IT,Italy,25.01,25.48
+21572,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LT,Lithuania,19.55,17.5
+21573,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LU,Luxembourg,37.31,30.69
+21574,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LV,Latvia,18.32,17.63
+21575,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MK,North Macedonia,7.92,:
+21576,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MT,Malta,33.22,31.86
+21577,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NL,Netherlands,34.09,33.5
+21578,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NO,Norway,34.49,39.42
+21579,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PL,Poland,15.44,16.2
+21580,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PT,Portugal,21.71,22.53
+21581,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RO,Romania,8.77,8.85
+21582,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SE,Sweden,22.41,24.02
+21583,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SI,Slovenia,21.34,26.69
+21584,IND_DEG1,Live in cities,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SK,Slovakia,30.43,27.57
+21619,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AT,Austria,42.5,46.25
+21620,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BE,Belgium,17.49,33.07
+21621,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BG,Bulgaria,19.69,15.62
+21622,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CH,Switzerland,41.99,46.98
+21623,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CY,Cyprus,31.08,50.56
+21624,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CZ,Czechia,16.89,35.24 b
+21625,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DE,Germany,22.92,38.69
+21626,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DK,Denmark,51.45,52.74
+21627,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EA,Euro area,34.61,40.19 e
+21628,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EE,Estonia,30.96,39.66
+21629,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EL,Greece,27.65,32.8
+21630,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ES,Spain,40.05,40.5
+21631,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),33.87,39.44 e
+21632,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FI,Finland,56.32,55.39
+21633,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FR,France,42.74,40.11
+21634,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HR,Croatia,37.33,43.8
+21635,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HU,Hungary,27.64,36.55
+21636,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IE,Ireland,47.02,:
+21637,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IS,Iceland,56.77,:
+21638,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IT,Italy,41.36,41.61
+21639,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LT,Lithuania,36.33,32.35
+21640,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LU,Luxembourg,35,36.74
+21641,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LV,Latvia,36.86,28.93
+21642,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MK,North Macedonia,5.42,:
+21643,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MT,Malta,31.93,35.41
+21644,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NL,Netherlands,56.5,62.23
+21645,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NO,Norway,57.07,59.11
+21646,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PL,Poland,35.48,43.37
+21647,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PT,Portugal,16.73,16.65
+21648,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RO,Romania,18.36,16.03
+21649,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SE,Sweden,46.01,45.73
+21650,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SI,Slovenia,31.62,39.38
+21651,IND_DEG2,Live in towns and suburbs,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SK,Slovakia,28.68,30.22
+21685,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AT,Austria,43.47,45.61
+21686,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BE,Belgium,26.24,28.64
+21687,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BG,Bulgaria,16.48,17.69
+21688,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CH,Switzerland,39.66,40.42
+21689,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CY,Cyprus,12.64,39.62
+21690,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CZ,Czechia,29,27.33
+21691,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DE,Germany,29.11,32.67
+21692,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DK,Denmark,30.49,28.59
+21693,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EA,Euro area,32.47,34.14 e
+21694,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EE,Estonia,28.89,35.07
+21695,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EL,Greece,19.62,22.97
+21696,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ES,Spain,38.69,38.46
+21697,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),30.69,32.54 e
+21698,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FI,Finland,50.24,53.06
+21699,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FR,France,38.04,37.87
+21700,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HR,Croatia,26.33,19.03
+21701,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HU,Hungary,21.73,26.57
+21702,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IE,Ireland,45.59,:
+21703,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IS,Iceland,39.4,:
+21704,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IT,Italy,28.35,29.34
+21705,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LT,Lithuania,36.19,35.33
+21706,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LU,Luxembourg,39.12,39.07
+21707,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LV,Latvia,22.73,21.11
+21708,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MK,North Macedonia,7.41,:
+21709,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MT,Malta,36.53,34.17
+21710,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NL,Netherlands,41.62,45.19
+21711,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NO,Norway,37.26,43.55
+21712,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PL,Poland,21.94,28.18
+21713,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PT,Portugal,36.87,38.72
+21714,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RO,Romania,19.49,17.11
+21715,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SE,Sweden,31.34,30.77
+21716,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SI,Slovenia,25.34,30.45
+21717,IND_DEG2,Live in towns and suburbs,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SK,Slovakia,25.52,24.11
+21751,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AT,Austria,55.31,56.99
+21752,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BE,Belgium,44.88,48.86
+21753,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BG,Bulgaria,25.21,19.19
+21754,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CH,Switzerland,60.95,63.29
+21755,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CY,Cyprus,58.16,54.69
+21756,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CZ,Czechia,49.02,61.1
+21757,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DE,Germany,41.35,49.78
+21758,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DK,Denmark,63.29,62.25
+21759,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EA,Euro area,48.78,51.71 e
+21760,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EE,Estonia,42.94,52.71
+21761,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EL,Greece,44.96,46.19
+21762,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ES,Spain,56.07,57.92
+21763,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),47.57,50.72 e
+21764,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FI,Finland,67.62,69.02
+21765,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FR,France,55.84,51.26
+21766,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HR,Croatia,45.76,47.09
+21767,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HU,Hungary,32.48,38.27
+21768,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IE,Ireland,60.68,:
+21769,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IS,Iceland,76.33,:
+21770,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IT,Italy,47.9,49.39
+21771,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LT,Lithuania,36.3,39.14
+21772,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LU,Luxembourg,52.63,53.3
+21773,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LV,Latvia,47.66,36.48
+21774,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MK,North Macedonia,19.64,:
+21775,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MT,Malta,59.75,58.83
+21776,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NL,Netherlands,66.93,74.38
+21777,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NO,Norway,75.51,74.54
+21778,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PL,Poland,43.96,50.71
+21779,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PT,Portugal,33.51,34.37
+21780,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RO,Romania,26.41,23.46
+21781,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SE,Sweden,63.3,64.32
+21782,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SI,Slovenia,40.12,43.18
+21783,IND_DEG2,Live in towns and suburbs,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SK,Slovakia,39.18,36.73
+21817,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AT,Austria,47.17,45.42
+21818,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BE,Belgium,45.1,48.03
+21819,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BG,Bulgaria,18.04,17.44
+21820,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CH,Switzerland,42.7,45.22
+21821,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CY,Cyprus,33.78,47.94
+21822,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CZ,Czechia,28.38,35.81
+21823,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DE,Germany,21.8,24.15
+21824,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DK,Denmark,57.85,46.56
+21825,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EA,Euro area,36.52,37.34 e
+21826,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EE,Estonia,28.76,37.85
+21827,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EL,Greece,29.86,36.18
+21828,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ES,Spain,42.88,43.62
+21829,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),35.76,36.79 e
+21830,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FI,Finland,51.68,48.29
+21831,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FR,France,46.43,42.63
+21832,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HR,Croatia,28.24,33.53
+21833,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HU,Hungary,25.45,30.53
+21834,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IE,Ireland,49.23,:
+21835,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IS,Iceland,48.52,:
+21836,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IT,Italy,37.93,38.68
+21837,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LT,Lithuania,25.44,27.44
+21838,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LU,Luxembourg,42.28,40.33
+21839,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LV,Latvia,35.96,33.28
+21840,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MK,North Macedonia,17.34,:
+21841,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MT,Malta,41.84,44.36
+21842,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NL,Netherlands,51.82,52.77
+21843,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NO,Norway,61.92,63.51
+21844,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PL,Poland,33.17,36.01
+21845,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PT,Portugal,39.92,40.57
+21846,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RO,Romania,27.85,22.52
+21847,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SE,Sweden,45.56,49.14
+21848,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SI,Slovenia,38.26,41.43
+21849,IND_DEG2,Live in towns and suburbs,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SK,Slovakia,35.99,36.61
+21883,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AT,Austria,8.98,9.32
+21884,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BE,Belgium,4.52,5.91
+21885,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BG,Bulgaria,0.82,0.44
+21886,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CH,Switzerland,7.31,10.6
+21887,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CY,Cyprus,0.2,1.63
+21888,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CZ,Czechia,5.25,4.69
+21889,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DE,Germany,3.78,4.51
+21890,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DK,Denmark,10.18,10.29
+21891,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EA,Euro area,5.39,5.90 e
+21892,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EE,Estonia,3.16,4.62
+21893,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EL,Greece,2.75,3.85
+21894,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ES,Spain,6.56,6.75
+21895,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),5.2,5.68 e
+21896,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FI,Finland,6.94,7.7
+21897,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FR,France,5.27,5.82
+21898,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HR,Croatia,3.67,6.02
+21899,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HU,Hungary,4.42,5.16
+21900,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IE,Ireland,6.9,:
+21901,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IS,Iceland,8.83,:
+21902,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IT,Italy,6.12,5.93
+21903,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LT,Lithuania,3.78,4.24
+21904,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LU,Luxembourg,8.39,9.27
+21905,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LV,Latvia,4.27,3.32
+21906,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MK,North Macedonia,1.26,:
+21907,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MT,Malta,9.37,10.65
+21908,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NL,Netherlands,7.43,9.61
+21909,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NO,Norway,11.95,14.19
+21910,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PL,Poland,4.37,4.23
+21911,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PT,Portugal,6.8,8.77
+21912,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RO,Romania,0.79,1.36
+21913,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SE,Sweden,8.21,8.99
+21914,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SI,Slovenia,5.56,3.93
+21915,IND_DEG2,Live in towns and suburbs,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SK,Slovakia,4.05,3.74
+21949,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AT,Austria,59.88,56.74
+21950,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BE,Belgium,54.99,57.8
+21951,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BG,Bulgaria,25.79,21
+21952,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CH,Switzerland,66.32,65.42
+21953,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CY,Cyprus,51.34,53.37
+21954,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CZ,Czechia,51.78,60.41
+21955,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DE,Germany,43.68,47.51
+21956,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DK,Denmark,46.37,42.58
+21957,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EA,Euro area,48.2,48.06 e
+21958,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EE,Estonia,44.89,50.76
+21959,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EL,Greece,57.25,57.03
+21960,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ES,Spain,48.91,43.67
+21961,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),46.97,47.15 e
+21962,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FI,Finland,66.9,67.05
+21963,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FR,France,56.17,50.14
+21964,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HR,Croatia,40.03,50.38
+21965,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HU,Hungary,45.3,45.16
+21966,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IE,Ireland,55.05,:
+21967,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IS,Iceland,77.69,:
+21968,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IT,Italy,40.49,40.5
+21969,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LT,Lithuania,35.79,35.84
+21970,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LU,Luxembourg,52.4,49.89
+21971,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LV,Latvia,46.13,42.89
+21972,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MK,North Macedonia,20.33,:
+21973,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MT,Malta,54.53,55.49
+21974,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NL,Netherlands,66.81,70.96
+21975,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NO,Norway,77.14,76.09
+21976,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PL,Poland,42.15,44.01
+21977,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PT,Portugal,47.95,49.19
+21978,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RO,Romania,22,17.98
+21979,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SE,Sweden,64.53,67.59
+21980,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SI,Slovenia,54.13,46.45
+21981,IND_DEG2,Live in towns and suburbs,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SK,Slovakia,46.87,41.8
+22015,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AT,Austria,64.14,68.98
+22016,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BE,Belgium,48.57,67.02
+22017,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BG,Bulgaria,38.52,34.45
+22018,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CH,Switzerland,80.69,75.32
+22019,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CY,Cyprus,44.09,56.07
+22020,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CZ,Czechia,56.54,68.54
+22021,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DE,Germany,50.25,57.98
+22022,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DK,Denmark,63.8,62.5
+22023,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EA,Euro area,55.3,58.59 e
+22024,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EE,Estonia,49.53,53.39
+22025,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EL,Greece,60.17,60.11
+22026,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ES,Spain,60.84,59.3
+22027,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),54.35,57.59 e
+22028,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FI,Finland,68.69,68.41
+22029,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FR,France,67.78,62.52
+22030,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HR,Croatia,83.2,80.16
+22031,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HU,Hungary,47.77,60.77
+22032,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IE,Ireland,65.67,:
+22033,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IS,Iceland,66.67,:
+22034,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IT,Italy,50.36,52.11
+22035,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LT,Lithuania,46.68,46.7
+22036,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LU,Luxembourg,60.04,59.79
+22037,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LV,Latvia,57.78,58.66
+22038,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MK,North Macedonia,30.79,:
+22039,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MT,Malta,52.64,51.99
+22040,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NL,Netherlands,68.48,73.19
+22041,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NO,Norway,62.79,63.54
+22042,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PL,Poland,50.04,55.9
+22043,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PT,Portugal,35.53,35.8
+22044,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RO,Romania,35.17,30.41
+22045,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SE,Sweden,59.94,61.17
+22046,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SI,Slovenia,46.41,54.02
+22047,IND_DEG2,Live in towns and suburbs,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SK,Slovakia,64.03,59.7
+22081,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AT,Austria,44.4,41.24
+22082,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BE,Belgium,43.92,46.81
+22083,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BG,Bulgaria,11.83,11.98
+22084,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CH,Switzerland,53.5,56.04
+22085,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CY,Cyprus,35.08,40.39
+22086,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CZ,Czechia,38.18,41.87
+22087,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DE,Germany,31.51,35.23
+22088,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DK,Denmark,47,46.5
+22089,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EA,Euro area,36.26,37.12 e
+22090,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EE,Estonia,35.81,43.31
+22091,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EL,Greece,41.53,39.49
+22092,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ES,Spain,37.82,34.62
+22093,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),35.29,36.29 e
+22094,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FI,Finland,48.04,49.51
+22095,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FR,France,41.36,38.83
+22096,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HR,Croatia,65.4,36.1
+22097,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HU,Hungary,34.5,34.62
+22098,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IE,Ireland,45.72,:
+22099,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IS,Iceland,66.33,:
+22100,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IT,Italy,31.49,32.89
+22101,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LT,Lithuania,33.09,31.99
+22102,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LU,Luxembourg,41.39,39.16
+22103,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LV,Latvia,34.6,29.93
+22104,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MK,North Macedonia,6.53,:
+22105,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MT,Malta,46.37,47.11
+22106,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NL,Netherlands,49.67,55.51
+22107,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NO,Norway,54.67,57.18
+22108,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PL,Poland,26.61,32.23
+22109,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PT,Portugal,35.7,34.7
+22110,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RO,Romania,19.36,17.63
+22111,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SE,Sweden,43.15,46.8
+22112,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SI,Slovenia,33.49,34.36
+22113,IND_DEG2,Live in towns and suburbs,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SK,Slovakia,38.61,34.67
+22147,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AT,Austria,26.58,22.85
+22148,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BE,Belgium,21.14,18.57
+22149,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BG,Bulgaria,3.1,3.32
+22150,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CH,Switzerland,24.52,27.7
+22151,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CY,Cyprus,8.99,28.66
+22152,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CZ,Czechia,18.3,20.64
+22153,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DE,Germany,22.67,25.35
+22154,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DK,Denmark,27.31,27.45
+22155,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EA,Euro area,22,21.59 e
+22156,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EE,Estonia,22.06,26.99
+22157,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EL,Greece,16.34,15.8
+22158,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ES,Spain,22.86,17.13
+22159,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),20.36,20.07 e
+22160,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FI,Finland,28.83,28.92
+22161,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FR,France,20.99,18.11
+22162,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HR,Croatia,43.36,20.53
+22163,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HU,Hungary,20.46,25.12
+22164,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IE,Ireland,25.03,:
+22165,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IS,Iceland,47,:
+22166,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IT,Italy,20.45,20.59
+22167,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LT,Lithuania,10.29,9.72
+22168,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LU,Luxembourg,21.99,21.12
+22169,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LV,Latvia,16.5,11.63
+22170,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MK,North Macedonia,3.75,:
+22171,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MT,Malta,34.3,34.61
+22172,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NL,Netherlands,30.21,33.55
+22173,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NO,Norway,26.23,27.3
+22174,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PL,Poland,9.41,8.73
+22175,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PT,Portugal,16.21,18.13
+22176,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RO,Romania,5.62,4.22
+22177,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SE,Sweden,17.96,20.47
+22178,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SI,Slovenia,14.39,23.69
+22179,IND_DEG2,Live in towns and suburbs,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SK,Slovakia,20.48,20.44
+22213,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AT,Austria,41.26,38.71
+22214,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,24.91
+22215,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BE,Belgium,15.66,31.34
+22216,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BG,Bulgaria,10.69,11.81
+22217,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CH,Switzerland,38.68,44.57
+22218,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CY,Cyprus,32.45,50.41
+22219,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CZ,Czechia,12.82,35.73 b
+22220,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DE,Germany,21.78,35.31
+22221,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DK,Denmark,44.87,49.05
+22222,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EA,Euro area,32.6,35.57 e
+22223,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EE,Estonia,34.88,41.72
+22224,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EL,Greece,11.99,16.66
+22225,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ES,Spain,38.64,38.96
+22226,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),29.67,33.35 e
+22227,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FI,Finland,53.26,52.69
+22228,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FR,France,39.28,36.99
+22229,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HR,Croatia,29.13,35.5
+22230,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HU,Hungary,20,28.82
+22231,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IE,Ireland,39.52,:
+22232,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IS,Iceland,51.37,:
+22233,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IT,Italy,36.73,38.04
+22234,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LT,Lithuania,32.41,32.55
+22235,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LU,Luxembourg,43.58,40.4
+22236,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LV,Latvia,32.1,22.75
+22237,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MK,North Macedonia,3.74,:
+22238,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MT,Malta,29.62 u,40.25 u
+22239,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NL,Netherlands,55.19,58.15
+22240,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NO,Norway,52.05,46.55
+22241,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PL,Poland,31.07,32.42
+22242,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PT,Portugal,10.54,11.01
+22243,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RO,Romania,10.45,13.14
+22244,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SE,Sweden,39.4,37.32
+22245,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SI,Slovenia,28.77,34.41
+22246,IND_DEG3,Live in rural areas,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SK,Slovakia,20.36,22.97
+22281,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AT,Austria,40.92,41.76
+22282,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,13.2
+22283,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BE,Belgium,23.73,27.15
+22284,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BG,Bulgaria,12.01,11.75
+22285,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CH,Switzerland,34.51,34.89
+22286,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CY,Cyprus,13.05,35.36
+22287,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CZ,Czechia,22.87,26.22
+22288,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DE,Germany,27.39,29.74
+22289,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DK,Denmark,24.94,25.89
+22290,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EA,Euro area,31.22,31.63 e
+22291,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EE,Estonia,29.9,34.99
+22292,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EL,Greece,11.95,13.23
+22293,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ES,Spain,35.91,40.19
+22294,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),27.1,28.28 e
+22295,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FI,Finland,48.15,48.11
+22296,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FR,France,36.63,35.33
+22297,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HR,Croatia,19.84,14.44
+22298,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HU,Hungary,17.27,23.69
+22299,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IE,Ireland,42.24,:
+22300,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IS,Iceland,40.16,:
+22301,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IT,Italy,25.13,26.33
+22302,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LT,Lithuania,35.62,35.52
+22303,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LU,Luxembourg,46.17,40.93
+22304,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LV,Latvia,20.53,16.23
+22305,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MK,North Macedonia,8.36,:
+22306,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MT,Malta,21.50 u,38.03 u
+22307,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NL,Netherlands,42.51,41.26
+22308,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NO,Norway,34.74,33.09
+22309,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PL,Poland,20.11,22.16
+22310,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PT,Portugal,28.72,30.79
+22311,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RO,Romania,12.13,13.74
+22312,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SE,Sweden,30.11,25.08
+22313,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SI,Slovenia,23.84,27.26
+22314,IND_DEG3,Live in rural areas,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SK,Slovakia,18.07,16.52
+22349,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AT,Austria,50.73,51.33
+22350,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,35.58
+22351,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BE,Belgium,40.71,46.84
+22352,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BG,Bulgaria,13.97,17.34
+22353,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CH,Switzerland,58.75,59.42
+22354,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CY,Cyprus,50.11,52.98
+22355,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CZ,Czechia,43.58,58.14
+22356,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DE,Germany,38.68,47.15
+22357,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DK,Denmark,58.54,60.4
+22358,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EA,Euro area,45.65,46.79 e
+22359,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EE,Estonia,46.04,54.46
+22360,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EL,Greece,25.74,29.4
+22361,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ES,Spain,55.27,53.47
+22362,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),41.7,44.47 e
+22363,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FI,Finland,62.57,64.31
+22364,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FR,France,52.36,48.9
+22365,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HR,Croatia,37.08,39.31
+22366,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HU,Hungary,26.62,30.59
+22367,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IE,Ireland,52.2,:
+22368,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IS,Iceland,68.88,:
+22369,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IT,Italy,43.38,44.64
+22370,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LT,Lithuania,40.27,40.8
+22371,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LU,Luxembourg,58.78,56.72
+22372,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LV,Latvia,40.7,32.05
+22373,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MK,North Macedonia,20.12,:
+22374,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MT,Malta,52.97 u,67.18 u
+22375,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NL,Netherlands,68.45,67.88
+22376,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NO,Norway,68.72,66.69
+22377,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PL,Poland,38.32,43.07
+22378,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PT,Portugal,24.61,29.17
+22379,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RO,Romania,15.9,20.57
+22380,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SE,Sweden,55.09,56.7
+22381,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SI,Slovenia,37.75,37.05
+22382,IND_DEG3,Live in rural areas,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SK,Slovakia,30.73,32.75
+22417,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AT,Austria,43.13,39.2
+22418,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,17.38
+22419,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BE,Belgium,42.64,50.25
+22420,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BG,Bulgaria,10.33,13.56
+22421,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CH,Switzerland,36.76,42.95
+22422,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CY,Cyprus,27.32,44.55
+22423,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CZ,Czechia,24.44,34.06
+22424,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DE,Germany,20.3,21.85
+22425,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DK,Denmark,47.13,45.25
+22426,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EA,Euro area,34.91,34.58 e
+22427,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EE,Estonia,32.24,39.35
+22428,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EL,Greece,17.74,19.29
+22429,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ES,Spain,40.87,45.2
+22430,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),31.44,31.81 e
+22431,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FI,Finland,43.39,44.7
+22432,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FR,France,43.41,40.02
+22433,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HR,Croatia,21.25,26.64
+22434,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HU,Hungary,16.07,22.79
+22435,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IE,Ireland,47.33,:
+22436,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IS,Iceland,43.2,:
+22437,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IT,Italy,33.71,35.11
+22438,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LT,Lithuania,28.16,27.38
+22439,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LU,Luxembourg,51.59,45.11
+22440,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LV,Latvia,30.2,24.64
+22441,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MK,North Macedonia,13.26,:
+22442,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MT,Malta,37.85 u,47.69 u
+22443,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NL,Netherlands,51.05,49.92
+22444,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NO,Norway,55.72,54.89
+22445,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PL,Poland,28.55,25.73
+22446,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PT,Portugal,33.96,32.64
+22447,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RO,Romania,16.15,16.63
+22448,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SE,Sweden,36.79,36.67
+22449,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SI,Slovenia,35.13,33.08
+22450,IND_DEG3,Live in rural areas,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SK,Slovakia,29.71,30.66
+22485,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AT,Austria,7.38,5.94
+22486,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,2.25
+22487,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BE,Belgium,4.07,5.23
+22488,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BG,Bulgaria,0.26,0.71
+22489,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CH,Switzerland,8.89,6.76
+22490,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CY,Cyprus,1.89,3.28
+22491,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CZ,Czechia,3.76,5.47
+22492,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DE,Germany,3.03,3.94
+22493,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DK,Denmark,8.24,7.89
+22494,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EA,Euro area,4.21,4.41 e
+22495,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EE,Estonia,4.64,5.74
+22496,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EL,Greece,1.64,1.85
+22497,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ES,Spain,6.73,7.83
+22498,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),3.9,4.03 e
+22499,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FI,Finland,7.31,5.58
+22500,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FR,France,3.41,3.5
+22501,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HR,Croatia,2.75,4.63
+22502,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HU,Hungary,2.26,2.75
+22503,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IE,Ireland,5.54,:
+22504,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IS,Iceland,8.71,:
+22505,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IT,Italy,5.18,4.27
+22506,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LT,Lithuania,3.36,3.94
+22507,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LU,Luxembourg,8.15,7.09
+22508,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LV,Latvia,4.86,2.35
+22509,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MK,North Macedonia,0.58,:
+22510,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MT,Malta,9.90 u,12.70 u
+22511,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NL,Netherlands,4.68,5.73
+22512,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NO,Norway,8.49,8.18
+22513,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PL,Poland,4.41,3.61
+22514,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PT,Portugal,5.22,6.94
+22515,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RO,Romania,0.32,0.48
+22516,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SE,Sweden,6.19,4.03
+22517,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SI,Slovenia,4.16,4.71
+22518,IND_DEG3,Live in rural areas,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SK,Slovakia,1.8,2.65
+22553,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AT,Austria,54.77,50.27
+22554,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,30.47
+22555,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BE,Belgium,54.72,60.3
+22556,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BG,Bulgaria,14,16.61
+22557,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CH,Switzerland,61.88,65.3
+22558,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CY,Cyprus,46.33,47.94
+22559,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CZ,Czechia,47.13,54.97
+22560,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DE,Germany,41.98,45.46
+22561,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DK,Denmark,36.6,38.16
+22562,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EA,Euro area,46.28,44.92 e
+22563,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EE,Estonia,47.24,50.43
+22564,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EL,Greece,34.03,34.58
+22565,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ES,Spain,46.4,43.84
+22566,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),41.5,40.66 e
+22567,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FI,Finland,61.24,57.31
+22568,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FR,France,52.75,48.85
+22569,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HR,Croatia,34.76,37.07
+22570,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HU,Hungary,33.86,35.28
+22571,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IE,Ireland,55.02,:
+22572,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IS,Iceland,71.79,:
+22573,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IT,Italy,35.38,35.13
+22574,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LT,Lithuania,38.67,38.46
+22575,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LU,Luxembourg,58.16,52.08
+22576,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LV,Latvia,35.73,30.83
+22577,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MK,North Macedonia,17.47,:
+22578,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MT,Malta,46.30 u,54.05 u
+22579,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NL,Netherlands,67.29,65.52
+22580,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NO,Norway,71.29,67.08
+22581,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PL,Poland,36.33,30.53
+22582,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PT,Portugal,38.95,41.71
+22583,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RO,Romania,11.55,12.27
+22584,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SE,Sweden,54.91,56.43
+22585,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SI,Slovenia,52.24,41.77
+22586,IND_DEG3,Live in rural areas,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SK,Slovakia,45.24,36.09
+22621,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AT,Austria,60.59,63.32
+22622,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,47.86
+22623,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BE,Belgium,51.15,63.82
+22624,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BG,Bulgaria,23.79,26.53
+22625,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CH,Switzerland,75.34,71.75
+22626,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CY,Cyprus,48.57,55.55
+22627,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CZ,Czechia,53.07,62.35
+22628,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DE,Germany,48.2,54.88
+22629,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DK,Denmark,56.48,60.8
+22630,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EA,Euro area,53.96,55.86 e
+22631,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EE,Estonia,49.03,53.18
+22632,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EL,Greece,37.57,41.35
+22633,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ES,Spain,56.95,55.18
+22634,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),50.09,52.20 e
+22635,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FI,Finland,62.43,64.72
+22636,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FR,France,64.86,61.56
+22637,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HR,Croatia,76.11,73.05
+22638,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HU,Hungary,36.81,48.61
+22639,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IE,Ireland,57.72,:
+22640,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IS,Iceland,57.13,:
+22641,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IT,Italy,44.93,47.74
+22642,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LT,Lithuania,46.8,47.42
+22643,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LU,Luxembourg,67.07,62.97
+22644,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LV,Latvia,50.54,44.44
+22645,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MK,North Macedonia,24.62,:
+22646,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MT,Malta,43.45 u,53.64 u
+22647,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NL,Netherlands,69.07,71.68
+22648,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NO,Norway,59.62,52.94
+22649,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PL,Poland,45.28,46.48
+22650,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PT,Portugal,27.29,29.83
+22651,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RO,Romania,24.67,25.45
+22652,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SE,Sweden,49.3,50.43
+22653,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SI,Slovenia,44.78,47.02
+22654,IND_DEG3,Live in rural areas,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SK,Slovakia,59.48,53.19
+22689,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AT,Austria,41.94,36.4
+22690,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,15.67
+22691,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BE,Belgium,42.21,45.54
+22692,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BG,Bulgaria,6.23,7.86
+22693,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CH,Switzerland,51.72,52.05
+22694,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CY,Cyprus,32.78,35.44
+22695,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CZ,Czechia,33.5,38.55
+22696,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DE,Germany,29.92,33.95
+22697,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DK,Denmark,40.62,43.94
+22698,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EA,Euro area,33.52,33.97 e
+22699,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EE,Estonia,36.89,41.29
+22700,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EL,Greece,22.37,23
+22701,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ES,Spain,35.37,36.08
+22702,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),30.12,30.53 e
+22703,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FI,Finland,43.92,43.78
+22704,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FR,France,36.96,36.67
+22705,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HR,Croatia,64.24,28.48
+22706,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HU,Hungary,23.58,25.64
+22707,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IE,Ireland,40,:
+22708,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IS,Iceland,56.91,:
+22709,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IT,Italy,27.08,27.76
+22710,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LT,Lithuania,33.33,33.59
+22711,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LU,Luxembourg,41.54,41.3
+22712,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LV,Latvia,26.2,19.63
+22713,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MK,North Macedonia,3.88,:
+22714,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MT,Malta,35.10 u,50.42 u
+22715,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NL,Netherlands,49.8,47.07
+22716,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NO,Norway,47.45,48.28
+22717,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PL,Poland,21.63,20.8
+22718,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PT,Portugal,26.4,28.12
+22719,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RO,Romania,8.86,11.07
+22720,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SE,Sweden,34.24,35.35
+22721,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SI,Slovenia,28.12,29.49
+22722,IND_DEG3,Live in rural areas,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SK,Slovakia,34.53,28.15
+22757,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AT,Austria,21.78,20.78
+22758,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,:,3.71
+22759,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BE,Belgium,18.95,18.66
+22760,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BG,Bulgaria,1.69,2.95
+22761,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CH,Switzerland,20.75,23.18
+22762,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CY,Cyprus,11.46,23.37
+22763,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CZ,Czechia,13.93,18.19
+22764,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DE,Germany,21.36,23.91
+22765,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DK,Denmark,22.29,23.95
+22766,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EA,Euro area,19.24,19.03 e
+22767,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EE,Estonia,22.33,26.08
+22768,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EL,Greece,7.16,6.16
+22769,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ES,Spain,22.6,18.98
+22770,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),15.86,15.82 e
+22771,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FI,Finland,28.53,24.03
+22772,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FR,France,19.2,17.73
+22773,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HR,Croatia,44.62,16.19
+22774,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HU,Hungary,11.6,17.19
+22775,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IE,Ireland,19.39,:
+22776,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IS,Iceland,43.52,:
+22777,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IT,Italy,17.26,17.59
+22778,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LT,Lithuania,13.34,12.59
+22779,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LU,Luxembourg,24.12,20.63
+22780,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LV,Latvia,11.69,7.13
+22781,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MK,North Macedonia,2.53,:
+22782,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MT,Malta,26.96 u,40.93 u
+22783,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NL,Netherlands,27.56,29.81
+22784,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NO,Norway,19.6,17.59
+22785,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PL,Poland,6.01,5.15
+22786,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PT,Portugal,13.51,12.58
+22787,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RO,Romania,1.27,2.51
+22788,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SE,Sweden,10.36,11.3
+22789,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SI,Slovenia,13.82,19.12
+22790,IND_DEG3,Live in rural areas,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SK,Slovakia,17.04,17.86

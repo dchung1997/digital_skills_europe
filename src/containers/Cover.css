@@ -1,0 +1,11 @@
+#cover-page.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.page-content {
+    text-align: left;
+    margin: 0 auto;
+}

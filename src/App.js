@@ -1,23 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
+
+import Cover from './containers/Cover.js'
+import Explorer from './containers/Explorer.js';
+import Indicators from './containers/Indicators.js';
+import ScrollyTelling from './containers/Scrollytelling.js';
+import GenderGap from './containers/GenderGap.js';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Cover/>
+      <Indicators/>
+      <Explorer/>
+      <ScrollyTelling/>
+      <GenderGap/>
     </div>
   );
 }

@@ -1,0 +1,8 @@
+#explorer-page {
+    padding-bottom: 10vh;  
+}
+
+#explorer-page .card .row {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

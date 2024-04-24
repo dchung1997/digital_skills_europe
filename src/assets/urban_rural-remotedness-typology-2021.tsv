@@ -1,0 +1,1209 @@
+	CODE	Name	Urban-rural typology	Urban-rural typology by NUTS 3
+	BE100	Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad	Predominantly urban region	1
+	BE211	Arr. Antwerpen	Predominantly urban region	1
+	BE212	Arr. Mechelen	Predominantly urban region	1
+	BE213	Arr. Turnhout	Intermediate region, close to a city	21
+	BE223	Arr. Tongeren	Intermediate region, close to a city	21
+	BE224	Arr. Hasselt	Predominantly urban region	1
+	BE225	Arr. Maaseik	Intermediate region, close to a city	21
+	BE231	Arr. Aalst	Predominantly urban region	1
+	BE232	Arr. Dendermonde	Predominantly urban region	1
+	BE233	Arr. Eeklo	Intermediate region, close to a city	21
+	BE234	Arr. Gent	Intermediate region, close to a city	21
+	BE235	Arr. Oudenaarde	Intermediate region, close to a city	21
+	BE236	Arr. Sint-Niklaas	Predominantly urban region	1
+	BE241	Arr. Halle-Vilvoorde	Predominantly urban region	1
+	BE242	Arr. Leuven	Intermediate region, close to a city	21
+	BE251	Arr. Brugge	Intermediate region, close to a city	21
+	BE252	Arr. Diksmuide	Intermediate region, close to a city	21
+	BE253	Arr. Ieper	Intermediate region, close to a city	21
+	BE254	Arr. Kortrijk	Predominantly urban region	1
+	BE255	Arr. Oostende	Intermediate region, close to a city	21
+	BE256	Arr. Roeselare	Intermediate region, close to a city	21
+	BE257	Arr. Tielt	Intermediate region, close to a city	21
+	BE258	Arr. Veurne	Intermediate region, close to a city	21
+	BE310	Arr. Nivelles	Intermediate region, close to a city	21
+	BE323	Arr. Mons	Predominantly urban region	1
+	BE328	Arr. Tournai-Mouscron	Intermediate region, close to a city	21
+	BE329	Arr. La Louvière	Predominantly urban region	1
+	BE32A	Arr. Ath	Predominantly rural region, close to a city	31
+	BE32B	Arr. Charleroi	Predominantly urban region	1
+	BE32C	Arr. Soignies	Intermediate region, close to a city	21
+	BE32D	Arr. Thuin	Predominantly rural region, close to a city	31
+	BE331	Arr. Huy	Predominantly rural region, close to a city	31
+	BE332	Arr. Liège	Predominantly urban region	1
+	BE334	Arr. Waremme	Predominantly rural region, close to a city	31
+	BE335	Arr. Verviers — communes francophones	Intermediate region, close to a city	21
+	BE336	Bezirk Verviers — Deutschsprachige Gemeinschaft	Predominantly rural region, close to a city	31
+	BE341	Arr. Arlon	Predominantly rural region, close to a city	31
+	BE342	Arr. Bastogne	Predominantly rural region, close to a city	31
+	BE343	Arr. Marche-en-Famenne	Predominantly rural region, close to a city	31
+	BE344	Arr. Neufchâteau	Predominantly rural region, close to a city	31
+	BE345	Arr. Virton	Predominantly rural region, close to a city	31
+	BE351	Arr. Dinant	Predominantly rural region, close to a city	31
+	BE352	Arr. Namur	Intermediate region, close to a city	21
+	BE353	Arr. Philippeville	Predominantly rural region, close to a city	31
+	BG311	Vidin	Predominantly rural region, close to a city	31
+	BG312	Montana	Intermediate region, close to a city	21
+	BG313	Vratsa	Intermediate region, close to a city	21
+	BG314	Pleven	Intermediate region, close to a city	21
+	BG315	Lovech	Intermediate region, remote	22
+	BG321	Veliko Tarnovo	Intermediate region, close to a city	21
+	BG322	Gabrovo	Intermediate region, close to a city	21
+	BG323	Ruse	Intermediate region, close to a city	21
+	BG324	Razgrad	Predominantly rural region, close to a city	31
+	BG325	Silistra	Predominantly rural region, remote	32
+	BG331	Varna	Intermediate region, close to a city	21
+	BG332	Dobrich	Intermediate region, close to a city	21
+	BG333	Shumen	Intermediate region, close to a city	21
+	BG334	Targovishte	Predominantly rural region, remote	32
+	BG341	Burgas	Intermediate region, close to a city	21
+	BG342	Sliven	Intermediate region, close to a city	21
+	BG343	Yambol	Intermediate region, close to a city	21
+	BG344	Stara Zagora	Intermediate region, close to a city	21
+	BG411	Sofia (stolitsa)	Predominantly urban region	1
+	BG412	Sofia	Predominantly rural region, close to a city	31
+	BG413	Blagoevgrad	Intermediate region, remote	22
+	BG414	Pernik	Intermediate region, close to a city	21
+	BG415	Kyustendil	Intermediate region, close to a city	21
+	BG421	Plovdiv	Intermediate region, close to a city	21
+	BG422	Haskovo	Intermediate region, close to a city	21
+	BG423	Pazardzhik	Intermediate region, close to a city	21
+	BG424	Smolyan	Predominantly rural region, remote	32
+	BG425	Kardzhali	Predominantly rural region, remote	32
+	CZ010	Hlavní město Praha	Predominantly urban region	1
+	CZ020	Středočeský kraj	Predominantly urban region	1
+	CZ031	Jihočeský kraj	Predominantly rural region, close to a city	31
+	CZ032	Plzeňský kraj	Predominantly rural region, close to a city	31
+	CZ041	Karlovarský kraj	Intermediate region, close to a city	21
+	CZ042	Ústecký kraj	Intermediate region, close to a city	21
+	CZ051	Liberecký kraj	Intermediate region, close to a city	21
+	CZ052	Královéhradecký kraj	Intermediate region, close to a city	21
+	CZ053	Pardubický kraj	Predominantly rural region, close to a city	31
+	CZ063	Kraj Vysočina	Predominantly rural region, close to a city	31
+	CZ064	Jihomoravský kraj	Intermediate region, close to a city	21
+	CZ071	Olomoucký kraj	Intermediate region, close to a city	21
+	CZ072	Zlínský kraj	Intermediate region, close to a city	21
+	CZ080	Moravskoslezský kraj	Intermediate region, close to a city	21
+	DK011	Byen København	Predominantly urban region	1
+	DK012	Københavns omegn	Predominantly urban region	1
+	DK013	Nordsjælland	Intermediate region, close to a city	21
+	DK014	Bornholm	Predominantly rural region, remote	32
+	DK021	Østsjælland	Intermediate region, close to a city	21
+	DK022	Vest- og Sydsjælland	Predominantly rural region, remote	32
+	DK031	Fyn	Intermediate region, close to a city	21
+	DK032	Sydjylland	Intermediate region, close to a city	21
+	DK041	Vestjylland	Predominantly rural region, remote	32
+	DK042	Østjylland	Intermediate region, close to a city	21
+	DK050	Nordjylland	Predominantly rural region, close to a city	31
+	DE111	Stuttgart, Stadtkreis	Predominantly urban region	1
+	DE112	Böblingen	Predominantly urban region	1
+	DE113	Esslingen	Predominantly urban region	1
+	DE114	Göppingen	Predominantly urban region	1
+	DE115	Ludwigsburg	Predominantly urban region	1
+	DE116	Rems-Murr-Kreis	Predominantly urban region	1
+	DE117	Heilbronn, Stadtkreis	Intermediate region, close to a city	21
+	DE118	Heilbronn, Landkreis	Intermediate region, close to a city	21
+	DE119	Hohenlohekreis	Predominantly rural region, close to a city	31
+	DE11A	Schwäbisch Hall	Predominantly rural region, close to a city	31
+	DE11B	Main-Tauber-Kreis	Predominantly rural region, close to a city	31
+	DE11C	Heidenheim	Intermediate region, close to a city	21
+	DE11D	Ostalbkreis	Intermediate region, close to a city	21
+	DE121	Baden-Baden, Stadtkreis	Predominantly urban region	1
+	DE122	Karlsruhe, Stadtkreis	Predominantly urban region	1
+	DE123	Karlsruhe, Landkreis	Predominantly urban region	1
+	DE124	Rastatt	Predominantly urban region	1
+	DE125	Heidelberg, Stadtkreis	Predominantly urban region	1
+	DE126	Mannheim, Stadtkreis	Predominantly urban region	1
+	DE127	Neckar-Odenwald-Kreis	Predominantly rural region, close to a city	31
+	DE128	Rhein-Neckar-Kreis	Predominantly urban region	1
+	DE129	Pforzheim, Stadtkreis	Intermediate region, close to a city	21
+	DE12A	Calw	Predominantly rural region, close to a city	31
+	DE12B	Enzkreis	Intermediate region, close to a city	21
+	DE12C	Freudenstadt	Predominantly rural region, close to a city	31
+	DE131	Freiburg im Breisgau, Stadtkreis	Intermediate region, close to a city	21
+	DE132	Breisgau-Hochschwarzwald	Intermediate region, close to a city	21
+	DE133	Emmendingen	Intermediate region, close to a city	21
+	DE134	Ortenaukreis	Intermediate region, close to a city	21
+	DE135	Rottweil	Predominantly rural region, close to a city	31
+	DE136	Schwarzwald-Baar-Kreis	Intermediate region, close to a city	21
+	DE137	Tuttlingen	Intermediate region, close to a city	21
+	DE138	Konstanz	Intermediate region, close to a city	21
+	DE139	Lörrach	Intermediate region, close to a city	21
+	DE13A	Waldshut	Intermediate region, close to a city	21
+	DE141	Reutlingen	Intermediate region, close to a city	21
+	DE142	Tübingen, Landkreis	Intermediate region, close to a city	21
+	DE143	Zollernalbkreis	Intermediate region, close to a city	21
+	DE144	Ulm, Stadtkreis	Intermediate region, close to a city	21
+	DE145	Alb-Donau-Kreis	Intermediate region, close to a city	21
+	DE146	Biberach	Predominantly rural region, close to a city	31
+	DE147	Bodenseekreis	Intermediate region, close to a city	21
+	DE148	Ravensburg	Intermediate region, close to a city	21
+	DE149	Sigmaringen	Predominantly rural region, close to a city	31
+	DE211	Ingolstadt, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE212	München, Kreisfreie Stadt	Predominantly urban region	1
+	DE213	Rosenheim, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE214	Altötting	Intermediate region, remote	22
+	DE215	Berchtesgadener Land	Intermediate region, close to a city	21
+	DE216	Bad Tölz-Wolfratshausen	Intermediate region, close to a city	21
+	DE217	Dachau	Intermediate region, close to a city	21
+	DE218	Ebersberg	Intermediate region, close to a city	21
+	DE219	Eichstätt	Intermediate region, close to a city	21
+	DE21A	Erding	Predominantly rural region, close to a city	31
+	DE21B	Freising	Intermediate region, close to a city	21
+	DE21C	Fürstenfeldbruck	Intermediate region, close to a city	21
+	DE21D	Garmisch-Partenkirchen	Intermediate region, close to a city	21
+	DE21E	Landsberg am Lech	Predominantly rural region, close to a city	31
+	DE21F	Miesbach	Intermediate region, close to a city	21
+	DE21G	Mühldorf a. Inn	Predominantly rural region, close to a city	31
+	DE21H	München, Landkreis	Predominantly urban region	1
+	DE21I	Neuburg-Schrobenhausen	Predominantly rural region, close to a city	31
+	DE21J	Pfaffenhofen a. d. Ilm	Intermediate region, close to a city	21
+	DE21K	Rosenheim, Landkreis	Intermediate region, close to a city	21
+	DE21L	Starnberg	Intermediate region, close to a city	21
+	DE21M	Traunstein	Predominantly rural region, close to a city	31
+	DE21N	Weilheim-Schongau	Intermediate region, close to a city	21
+	DE221	Landshut, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DE222	Passau, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DE223	Straubing, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DE224	Deggendorf	Predominantly rural region, close to a city	31
+	DE225	Freyung-Grafenau	Predominantly rural region, close to a city	31
+	DE226	Kelheim	Predominantly rural region, close to a city	31
+	DE227	Landshut, Landkreis	Predominantly rural region, close to a city	31
+	DE228	Passau, Landkreis	Predominantly rural region, close to a city	31
+	DE229	Regen	Predominantly rural region, remote	32
+	DE22A	Rottal-Inn	Predominantly rural region, close to a city	31
+	DE22B	Straubing-Bogen	Predominantly rural region, close to a city	31
+	DE22C	Dingolfing-Landau	Predominantly rural region, close to a city	31
+	DE231	Amberg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE232	Regensburg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE233	Weiden i. d. Opf, Kreisfreie Stadt	Predominantly rural region, remote	32
+	DE234	Amberg-Sulzbach	Intermediate region, close to a city	21
+	DE235	Cham	Predominantly rural region, remote	32
+	DE236	Neumarkt i. d. OPf.	Predominantly rural region, close to a city	31
+	DE237	Neustadt a. d. Waldnaab	Predominantly rural region, close to a city	31
+	DE238	Regensburg, Landkreis	Intermediate region, close to a city	21
+	DE239	Schwandorf	Predominantly rural region, close to a city	31
+	DE23A	Tirschenreuth	Predominantly rural region, close to a city	31
+	DE241	Bamberg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE242	Bayreuth, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE243	Coburg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE244	Hof, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE245	Bamberg, Landkreis	Intermediate region, close to a city	21
+	DE246	Bayreuth, Landkreis	Intermediate region, close to a city	21
+	DE247	Coburg, Landkreis	Intermediate region, close to a city	21
+	DE248	Forchheim	Intermediate region, close to a city	21
+	DE249	Hof, Landkreis	Intermediate region, close to a city	21
+	DE24A	Kronach	Predominantly rural region, close to a city	31
+	DE24B	Kulmbach	Predominantly rural region, close to a city	31
+	DE24C	Lichtenfels	Predominantly rural region, close to a city	31
+	DE24D	Wunsiedel i. Fichtelgebirge	Predominantly rural region, close to a city	31
+	DE251	Ansbach, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DE252	Erlangen, Kreisfreie Stadt	Predominantly urban region	1
+	DE253	Fürth, Kreisfreie Stadt	Predominantly urban region	1
+	DE254	Nürnberg, Kreisfreie Stadt	Predominantly urban region	1
+	DE255	Schwabach, Kreisfreie Stadt	Predominantly urban region	1
+	DE256	Ansbach, Landkreis	Predominantly rural region, close to a city	31
+	DE257	Erlangen-Höchstadt	Predominantly urban region	1
+	DE258	Fürth, Landkreis	Predominantly urban region	1
+	DE259	Nürnberger Land	Intermediate region, close to a city	21
+	DE25A	Neustadt a. d. Aisch-Bad Windsheim	Predominantly rural region, close to a city	31
+	DE25B	Roth	Intermediate region, close to a city	21
+	DE25C	Weißenburg-Gunzenhausen	Predominantly rural region, close to a city	31
+	DE261	Aschaffenburg, Kreisfreie Stadt	Predominantly urban region	1
+	DE262	Schweinfurt, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE263	Würzburg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE264	Aschaffenburg, Landkreis	Predominantly urban region	1
+	DE265	Bad Kissingen	Predominantly rural region, close to a city	31
+	DE266	Rhön-Grabfeld	Predominantly rural region, close to a city	31
+	DE267	Haßberge	Predominantly rural region, close to a city	31
+	DE268	Kitzingen	Predominantly rural region, close to a city	31
+	DE269	Miltenberg	Intermediate region, close to a city	21
+	DE26A	Main-Spessart	Predominantly rural region, close to a city	31
+	DE26B	Schweinfurt, Landkreis	Intermediate region, close to a city	21
+	DE26C	Würzburg, Landkreis	Intermediate region, close to a city	21
+	DE271	Augsburg, Kreisfreie Stadt	Predominantly urban region	1
+	DE272	Kaufbeuren, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE273	Kempten (Allgäu), Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE274	Memmingen, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DE275	Aichach-Friedberg	Intermediate region, close to a city	21
+	DE276	Augsburg, Landkreis	Predominantly urban region	1
+	DE277	Dillingen a.d. Donau	Predominantly rural region, close to a city	31
+	DE278	Günzburg	Predominantly rural region, close to a city	31
+	DE279	Neu-Ulm	Intermediate region, close to a city	21
+	DE27A	Lindau (Bodensee)	Intermediate region, close to a city	21
+	DE27B	Ostallgäu	Intermediate region, close to a city	21
+	DE27C	Unterallgäu	Predominantly rural region, close to a city	31
+	DE27D	Donau-Ries	Predominantly rural region, close to a city	31
+	DE27E	Oberallgäu	Intermediate region, close to a city	21
+	DE300	Berlin	Predominantly urban region	1
+	DE401	Brandenburg an der Havel, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE402	Cottbus, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE403	Frankfurt (Oder), Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE404	Potsdam, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE405	Barnim	Intermediate region, close to a city	21
+	DE406	Dahme-Spreewald	Intermediate region, close to a city	21
+	DE407	Elbe-Elster	Predominantly rural region, remote	32
+	DE408	Havelland	Intermediate region, close to a city	21
+	DE409	Märkisch-Oderland	Intermediate region, close to a city	21
+	DE40A	Oberhavel	Intermediate region, close to a city	21
+	DE40B	Oberspreewald-Lausitz	Intermediate region, close to a city	21
+	DE40C	Oder-Spree	Intermediate region, close to a city	21
+	DE40D	Ostprignitz-Ruppin	Predominantly rural region, remote	32
+	DE40E	Potsdam-Mittelmark	Intermediate region, close to a city	21
+	DE40F	Prignitz	Predominantly rural region, remote	32
+	DE40G	Spree-Neiße	Intermediate region, close to a city	21
+	DE40H	Teltow-Fläming	Intermediate region, close to a city	21
+	DE40I	Uckermark	Predominantly rural region, close to a city	31
+	DE501	Bremen, Kreisfreie Stadt	Predominantly urban region	1
+	DE502	Bremerhaven, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE600	Hamburg	Predominantly urban region	1
+	DE711	Darmstadt, Kreisfreie Stadt	Predominantly urban region	1
+	DE712	Frankfurt am Main, Kreisfreie Stadt	Predominantly urban region	1
+	DE713	Offenbach am Main, Kreisfreie Stadt	Predominantly urban region	1
+	DE714	Wiesbaden, Kreisfreie Stadt	Predominantly urban region	1
+	DE715	Bergstraße	Predominantly urban region	1
+	DE716	Darmstadt-Dieburg	Predominantly urban region	1
+	DE717	Groß-Gerau	Predominantly urban region	1
+	DE718	Hochtaunuskreis	Predominantly urban region	1
+	DE719	Main-Kinzig-Kreis	Intermediate region, close to a city	21
+	DE71A	Main-Taunus-Kreis	Predominantly urban region	1
+	DE71B	Odenwaldkreis	Predominantly rural region, close to a city	31
+	DE71C	Offenbach, Landkreis	Predominantly urban region	1
+	DE71D	Rheingau-Taunus-Kreis	Intermediate region, close to a city	21
+	DE71E	Wetteraukreis	Intermediate region, close to a city	21
+	DE721	Gießen, Landkreis	Intermediate region, close to a city	21
+	DE722	Lahn-Dill-Kreis	Intermediate region, close to a city	21
+	DE723	Limburg-Weilburg	Intermediate region, close to a city	21
+	DE724	Marburg-Biedenkopf	Intermediate region, close to a city	21
+	DE725	Vogelsbergkreis	Predominantly rural region, close to a city	31
+	DE731	Kassel, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE732	Fulda	Intermediate region, close to a city	21
+	DE733	Hersfeld-Rotenburg	Predominantly rural region, close to a city	31
+	DE734	Kassel, Landkreis	Intermediate region, close to a city	21
+	DE735	Schwalm-Eder-Kreis	Predominantly rural region, close to a city	31
+	DE736	Waldeck-Frankenberg	Predominantly rural region, close to a city	31
+	DE737	Werra-Meißner-Kreis	Predominantly rural region, close to a city	31
+	DE803	Rostock, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE804	Schwerin, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DE80J	Mecklenburgische Seenplatte	Predominantly rural region, close to a city	31
+	DE80K	Landkreis Rostock	Intermediate region, close to a city	21
+	DE80L	Vorpommern-Rügen	Predominantly rural region, close to a city	31
+	DE80M	Nordwestmecklenburg	Predominantly rural region, close to a city	31
+	DE80N	Vorpommern-Greifswald	Predominantly rural region, close to a city	31
+	DE80O	Ludwigslust-Parchim	Predominantly rural region, close to a city	31
+	DE911	Braunschweig, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE912	Salzgitter, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE913	Wolfsburg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE914	Gifhorn	Intermediate region, close to a city	21
+	DE916	Goslar	Intermediate region, close to a city	21
+	DE917	Helmstedt	Predominantly rural region, close to a city	31
+	DE918	Northeim	Predominantly rural region, close to a city	31
+	DE91A	Peine	Intermediate region, close to a city	21
+	DE91B	Wolfenbüttel	Intermediate region, close to a city	21
+	DE91C	Göttingen	Intermediate region, close to a city	21
+	DE922	Diepholz	Intermediate region, close to a city	21
+	DE923	Hameln-Pyrmont	Intermediate region, close to a city	21
+	DE925	Hildesheim	Intermediate region, close to a city	21
+	DE926	Holzminden	Predominantly rural region, remote	32
+	DE927	Nienburg (Weser)	Predominantly rural region, close to a city	31
+	DE928	Schaumburg	Intermediate region, close to a city	21
+	DE929	Region Hannover	Predominantly urban region	1
+	DE931	Celle	Intermediate region, close to a city	21
+	DE932	Cuxhaven	Intermediate region, close to a city	21
+	DE933	Harburg	Intermediate region, close to a city	21
+	DE934	Lüchow-Dannenberg	Predominantly rural region, remote	32
+	DE935	Lüneburg, Landkreis	Intermediate region, close to a city	21
+	DE936	Osterholz	Intermediate region, close to a city	21
+	DE937	Rotenburg (Wümme)	Predominantly rural region, close to a city	31
+	DE938	Heidekreis	Intermediate region, close to a city	21
+	DE939	Stade	Intermediate region, close to a city	21
+	DE93A	Uelzen	Predominantly rural region, close to a city	31
+	DE93B	Verden	Intermediate region, close to a city	21
+	DE941	Delmenhorst, Kreisfreie Stadt	Predominantly urban region	1
+	DE942	Emden, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE943	Oldenburg (Oldenburg), Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE944	Osnabrück, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE945	Wilhelmshaven, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DE946	Ammerland	Intermediate region, close to a city	21
+	DE947	Aurich	Intermediate region, remote	22
+	DE948	Cloppenburg	Predominantly rural region, close to a city	31
+	DE949	Emsland	Predominantly rural region, remote	32
+	DE94A	Friesland	Intermediate region, close to a city	21
+	DE94B	Grafschaft Bentheim	Intermediate region, close to a city	21
+	DE94C	Leer	Intermediate region, close to a city	21
+	DE94D	Oldenburg, Landkreis	Intermediate region, close to a city	21
+	DE94E	Osnabrück, Landkreis	Intermediate region, close to a city	21
+	DE94F	Vechta	Intermediate region, close to a city	21
+	DE94G	Wesermarsch	Intermediate region, close to a city	21
+	DE94H	Wittmund	Predominantly rural region, close to a city	31
+	DEA11	Düsseldorf, Kreisfreie Stadt	Predominantly urban region	1
+	DEA12	Duisburg, Kreisfreie Stadt	Predominantly urban region	1
+	DEA13	Essen, Kreisfreie Stadt	Predominantly urban region	1
+	DEA14	Krefeld, Kreisfreie Stadt	Predominantly urban region	1
+	DEA15	Mönchengladbach, Kreisfreie Stadt	Predominantly urban region	1
+	DEA16	Mülheim an der Ruhr, Kreisfreie Stadt	Predominantly urban region	1
+	DEA17	Oberhausen, Kreisfreie Stadt	Predominantly urban region	1
+	DEA18	Remscheid, Kreisfreie Stadt	Predominantly urban region	1
+	DEA19	Solingen, Kreisfreie Stadt	Predominantly urban region	1
+	DEA1A	Wuppertal, Kreisfreie Stadt	Predominantly urban region	1
+	DEA1B	Kleve	Intermediate region, close to a city	21
+	DEA1C	Mettmann	Predominantly urban region	1
+	DEA1D	Rhein-Kreis Neuss	Predominantly urban region	1
+	DEA1E	Viersen	Predominantly urban region	1
+	DEA1F	Wesel	Predominantly urban region	1
+	DEA22	Bonn, Kreisfreie Stadt	Predominantly urban region	1
+	DEA23	Köln, Kreisfreie Stadt	Predominantly urban region	1
+	DEA24	Leverkusen, Kreisfreie Stadt	Predominantly urban region	1
+	DEA26	Düren	Intermediate region, close to a city	21
+	DEA27	Rhein-Erft-Kreis	Predominantly urban region	1
+	DEA28	Euskirchen	Intermediate region, close to a city	21
+	DEA29	Heinsberg	Intermediate region, close to a city	21
+	DEA2A	Oberbergischer Kreis	Intermediate region, close to a city	21
+	DEA2B	Rheinisch-Bergischer Kreis	Predominantly urban region	1
+	DEA2C	Rhein-Sieg-Kreis	Predominantly urban region	1
+	DEA2D	Städteregion Aachen	Predominantly urban region	1
+	DEA31	Bottrop, Kreisfreie Stadt	Predominantly urban region	1
+	DEA32	Gelsenkirchen, Kreisfreie Stadt	Predominantly urban region	1
+	DEA33	Münster, Kreisfreie Stadt	Predominantly urban region	1
+	DEA34	Borken	Intermediate region, close to a city	21
+	DEA35	Coesfeld	Predominantly urban region	1
+	DEA36	Recklinghausen	Predominantly urban region	1
+	DEA37	Steinfurt	Intermediate region, close to a city	21
+	DEA38	Warendorf	Intermediate region, close to a city	21
+	DEA41	Bielefeld, Kreisfreie Stadt	Predominantly urban region	1
+	DEA42	Gütersloh	Predominantly urban region	1
+	DEA43	Herford	Predominantly urban region	1
+	DEA44	Höxter	Predominantly rural region, close to a city	31
+	DEA45	Lippe	Intermediate region, close to a city	21
+	DEA46	Minden-Lübbecke	Intermediate region, close to a city	21
+	DEA47	Paderborn	Intermediate region, close to a city	21
+	DEA51	Bochum, Kreisfreie Stadt	Predominantly urban region	1
+	DEA52	Dortmund, Kreisfreie Stadt	Predominantly urban region	1
+	DEA53	Hagen, Kreisfreie Stadt	Predominantly urban region	1
+	DEA54	Hamm, Kreisfreie Stadt	Predominantly urban region	1
+	DEA55	Herne, Kreisfreie Stadt	Predominantly urban region	1
+	DEA56	Ennepe-Ruhr-Kreis	Predominantly urban region	1
+	DEA57	Hochsauerlandkreis	Intermediate region, close to a city	21
+	DEA58	Märkischer Kreis	Predominantly urban region	1
+	DEA59	Olpe	Intermediate region, close to a city	21
+	DEA5A	Siegen-Wittgenstein	Intermediate region, close to a city	21
+	DEA5B	Soest	Intermediate region, close to a city	21
+	DEA5C	Unna	Predominantly urban region	1
+	DEB11	Koblenz, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEB12	Ahrweiler	Intermediate region, close to a city	21
+	DEB13	Altenkirchen (Westerwald)	Predominantly rural region, close to a city	31
+	DEB14	Bad Kreuznach	Intermediate region, close to a city	21
+	DEB15	Birkenfeld	Predominantly rural region, close to a city	31
+	DEB17	Mayen-Koblenz	Intermediate region, close to a city	21
+	DEB18	Neuwied	Intermediate region, close to a city	21
+	DEB1A	Rhein-Lahn-Kreis	Intermediate region, close to a city	21
+	DEB1B	Westerwaldkreis	Predominantly rural region, close to a city	31
+	DEB1C	Cochem-Zell	Predominantly rural region, close to a city	31
+	DEB1D	Rhein-Hunsrück-Kreis	Predominantly rural region, close to a city	31
+	DEB21	Trier, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEB22	Bernkastel-Wittlich	Predominantly rural region, close to a city	31
+	DEB23	Eifelkreis Bitburg-Prüm	Predominantly rural region, close to a city	31
+	DEB24	Vulkaneifel	Predominantly rural region, close to a city	31
+	DEB25	Trier-Saarburg	Intermediate region, close to a city	21
+	DEB31	Frankenthal (Pfalz), Kreisfreie Stadt	Predominantly urban region	1
+	DEB32	Kaiserslautern, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEB33	Landau in der Pfalz, Kreisfreie Stadt	Predominantly urban region	1
+	DEB34	Ludwigshafen am Rhein, Kreisfreie Stadt	Predominantly urban region	1
+	DEB35	Mainz, Kreisfreie Stadt	Predominantly urban region	1
+	DEB36	Neustadt an der Weinstraße, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEB37	Pirmasens, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DEB38	Speyer, Kreisfreie Stadt	Predominantly urban region	1
+	DEB39	Worms, Kreisfreie Stadt	Predominantly urban region	1
+	DEB3A	Zweibrücken, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEB3B	Alzey-Worms	Predominantly rural region, close to a city	31
+	DEB3C	Bad Dürkheim	Intermediate region, close to a city	21
+	DEB3D	Donnersbergkreis	Predominantly rural region, close to a city	31
+	DEB3E	Germersheim	Predominantly urban region	1
+	DEB3F	Kaiserslautern, Landkreis	Intermediate region, close to a city	21
+	DEB3G	Kusel	Predominantly rural region, close to a city	31
+	DEB3H	Südliche Weinstraße	Intermediate region, close to a city	21
+	DEB3I	Rhein-Pfalz-Kreis	Predominantly urban region	1
+	DEB3J	Mainz-Bingen	Intermediate region, close to a city	21
+	DEB3K	Südwestpfalz	Predominantly rural region, close to a city	31
+	DEC01	Regionalverband Saarbrücken	Predominantly urban region	1
+	DEC02	Merzig-Wadern	Intermediate region, close to a city	21
+	DEC03	Neunkirchen	Intermediate region, close to a city	21
+	DEC04	Saarlouis	Predominantly urban region	1
+	DEC05	Saarpfalz-Kreis	Predominantly urban region	1
+	DEC06	St. Wendel	Intermediate region, close to a city	21
+	DED21	Dresden, Kreisfreie Stadt	Predominantly urban region	1
+	DED2C	Bautzen	Predominantly rural region, close to a city	31
+	DED2D	Görlitz	Intermediate region, close to a city	21
+	DED2E	Meißen	Intermediate region, close to a city	21
+	DED2F	Sächsische Schweiz-Osterzgebirge	Predominantly urban region	1
+	DED41	Chemnitz, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DED42	Erzgebirgskreis	Intermediate region, close to a city	21
+	DED43	Mittelsachsen	Intermediate region, close to a city	21
+	DED44	Vogtlandkreis	Intermediate region, close to a city	21
+	DED45	Zwickau	Intermediate region, close to a city	21
+	DED51	Leipzig, Kreisfreie Stadt	Predominantly urban region	1
+	DED52	Leipzig	Predominantly urban region	1
+	DED53	Nordsachsen	Predominantly rural region, close to a city	31
+	DEE01	Dessau-Roßlau, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEE02	Halle (Saale), Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEE03	Magdeburg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEE04	Altmarkkreis Salzwedel	Predominantly rural region, remote	32
+	DEE05	Anhalt-Bitterfeld	Intermediate region, close to a city	21
+	DEE06	Jerichower Land	Predominantly rural region, close to a city	31
+	DEE07	Börde	Intermediate region, close to a city	21
+	DEE08	Burgenlandkreis	Predominantly rural region, close to a city	31
+	DEE09	Harz	Intermediate region, close to a city	21
+	DEE0A	Mansfeld-Südharz	Predominantly rural region, close to a city	31
+	DEE0B	Saalekreis	Intermediate region, close to a city	21
+	DEE0C	Salzlandkreis	Intermediate region, close to a city	21
+	DEE0D	Stendal	Predominantly rural region, remote	32
+	DEE0E	Wittenberg	Predominantly rural region, close to a city	31
+	DEF01	Flensburg, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEF02	Kiel, Kreisfreie Stadt	Predominantly urban region	1
+	DEF03	Lübeck, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEF04	Neumünster, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEF05	Dithmarschen	Predominantly rural region, remote	32
+	DEF06	Herzogtum Lauenburg	Intermediate region, close to a city	21
+	DEF07	Nordfriesland	Predominantly rural region, close to a city	31
+	DEF08	Ostholstein	Intermediate region, close to a city	21
+	DEF09	Pinneberg	Predominantly urban region	1
+	DEF0A	Plön	Predominantly urban region	1
+	DEF0B	Rendsburg-Eckernförde	Intermediate region, close to a city	21
+	DEF0C	Schleswig-Flensburg	Intermediate region, close to a city	21
+	DEF0D	Segeberg	Intermediate region, close to a city	21
+	DEF0E	Steinburg	Intermediate region, close to a city	21
+	DEF0F	Stormarn	Intermediate region, close to a city	21
+	DEG01	Erfurt, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEG02	Gera, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEG03	Jena, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEG04	Suhl, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEG05	Weimar, Kreisfreie Stadt	Intermediate region, close to a city	21
+	DEG06	Eichsfeld	Predominantly rural region, close to a city	31
+	DEG07	Nordhausen	Intermediate region, remote	22
+	DEG09	Unstrut-Hainich-Kreis	Predominantly rural region, close to a city	31
+	DEG0A	Kyffhäuserkreis	Predominantly rural region, close to a city	31
+	DEG0B	Schmalkalden-Meiningen	Intermediate region, remote	22
+	DEG0C	Gotha	Predominantly rural region, close to a city	31
+	DEG0D	Sömmerda	Intermediate region, close to a city	21
+	DEG0E	Hildburghausen	Predominantly rural region, remote	32
+	DEG0F	Ilm-Kreis	Predominantly rural region, close to a city	31
+	DEG0G	Weimarer Land	Intermediate region, close to a city	21
+	DEG0H	Sonneberg	Predominantly rural region, close to a city	31
+	DEG0I	Saalfeld-Rudolstadt	Intermediate region, close to a city	21
+	DEG0J	Saale-Holzland-Kreis	Intermediate region, close to a city	21
+	DEG0K	Saale-Orla-Kreis	Predominantly rural region, close to a city	31
+	DEG0L	Greiz	Intermediate region, close to a city	21
+	DEG0M	Altenburger Land	Intermediate region, close to a city	21
+	DEG0N	Eisenach, Kreisfreie Stadt	Predominantly rural region, close to a city	31
+	DEG0P	Wartburgkreis	Predominantly rural region, close to a city	31
+	EE001	Põhja-Eesti	Predominantly urban region	1
+	EE004	Lääne-Eesti	Predominantly rural region, remote	32
+	EE008	Lõuna-Eesti	Predominantly rural region, close to a city	31
+	EE009	Kesk-Eesti	Predominantly rural region, remote	32
+	EE00A	Kirde-Eesti	Predominantly urban region	1
+	IE041	Border	Predominantly rural region, remote	32
+	IE042	West	Predominantly rural region, close to a city	31
+	IE051	Mid-West	Predominantly rural region, close to a city	31
+	IE052	South-East	Predominantly rural region, close to a city	31
+	IE053	South-West	Predominantly rural region, close to a city	31
+	IE061	Dublin	Predominantly urban region	1
+	IE062	Mid-East	Intermediate region, close to a city	21
+	IE063	Midland	Predominantly rural region, remote	32
+	EL301	Voreios Tomeas Athinon	Predominantly urban region	1
+	EL302	Dytikos Tomeas Athinon	Predominantly urban region	1
+	EL303	Kentrikos Tomeas Athinon	Predominantly urban region	1
+	EL304	Notios Tomeas Athinon	Predominantly urban region	1
+	EL305	Anatoliki Attiki	Predominantly urban region	1
+	EL306	Dytiki Attiki	Predominantly urban region	1
+	EL307	Peiraias, Nisoi	Predominantly urban region	1
+	EL411	Lesvos, Limnos	Predominantly rural region, remote	32
+	EL412	Ikaria, Samos	Predominantly rural region, remote	32
+	EL413	Chios	Intermediate region, remote	22
+	EL421	Kalymnos, Karpathos, Kasos, Kos, Rodos	Intermediate region, remote	22
+	EL422	Andros, Thira, Kea, Milos, Mykonos, Naxos, Paros, Syros, Tinos	Predominantly rural region, remote	32
+	EL431	Irakleio	Intermediate region, close to a city	21
+	EL432	Lasithi	Predominantly rural region, remote	32
+	EL433	Rethymni	Predominantly rural region, remote	32
+	EL434	Chania	Intermediate region, remote	22
+	EL511	Evros	Intermediate region, remote	22
+	EL512	Xanthi	Intermediate region, close to a city	21
+	EL513	Rodopi	Predominantly rural region, remote	32
+	EL514	Drama	Intermediate region, close to a city	21
+	EL515	Thasos, Kavala	Predominantly rural region, close to a city	31
+	EL521	Imathia	Intermediate region, close to a city	21
+	EL522	Thessaloniki	Predominantly urban region	1
+	EL523	Kilkis	Predominantly rural region, close to a city	31
+	EL524	Pella	Predominantly rural region, remote	32
+	EL525	Pieria	Intermediate region, close to a city	21
+	EL526	Serres	Predominantly rural region, remote	32
+	EL527	Chalkidiki	Predominantly rural region, remote	32
+	EL531	Grevena, Kozani	Predominantly rural region, remote	32
+	EL532	Kastoria	Intermediate region, remote	22
+	EL533	Florina	Predominantly rural region, remote	32
+	EL541	Arta, Preveza	Predominantly rural region, remote	32
+	EL542	Thesprotia	Predominantly rural region, remote	32
+	EL543	Ioannina	Intermediate region, close to a city	21
+	EL611	Karditsa, Trikala	Predominantly rural region, remote	32
+	EL612	Larisa	Intermediate region, close to a city	21
+	EL613	Magnisia, Sporades	Intermediate region, close to a city	21
+	EL621	Zakynthos	Predominantly rural region, remote	32
+	EL622	Kerkyra	Predominantly rural region, remote	32
+	EL623	Ithaki, Kefallinia	Predominantly rural region, remote	32
+	EL624	Lefkada	Predominantly rural region, remote	32
+	EL631	Aitoloakarnania	Predominantly rural region, remote	32
+	EL632	Achaia	Intermediate region, close to a city	21
+	EL633	Ileia	Predominantly rural region, remote	32
+	EL641	Voiotia	Predominantly rural region, remote	32
+	EL642	Evvoia	Predominantly rural region, remote	32
+	EL643	Evrytania	Predominantly rural region, remote	32
+	EL644	Fthiotida	Predominantly rural region, remote	32
+	EL645	Fokida	Predominantly rural region, remote	32
+	EL651	Argolida, Arkadia	Predominantly rural region, remote	32
+	EL652	Korinthia	Intermediate region, remote	22
+	EL653	Lakonia, Messinia	Predominantly rural region, close to a city	31
+	ES111	A Coruña	Intermediate region, close to a city	21
+	ES112	Lugo	Predominantly rural region, close to a city	31
+	ES113	Ourense	Predominantly rural region, close to a city	31
+	ES114	Pontevedra	Intermediate region, close to a city	21
+	ES120	Asturias	Intermediate region, close to a city	21
+	ES130	Cantabria	Intermediate region, close to a city	21
+	ES211	Araba/Álava	Predominantly urban region	1
+	ES212	Gipuzkoa	Predominantly urban region	1
+	ES213	Bizkaia	Predominantly urban region	1
+	ES220	Navarra	Intermediate region, close to a city	21
+	ES230	La Rioja	Intermediate region, close to a city	21
+	ES241	Huesca	Intermediate region, close to a city	21
+	ES242	Teruel	Predominantly rural region, remote	32
+	ES243	Zaragoza	Predominantly urban region	1
+	ES300	Madrid	Predominantly urban region	1
+	ES411	Ávila	Predominantly rural region, remote	32
+	ES412	Burgos	Intermediate region, close to a city	21
+	ES413	León	Intermediate region, close to a city	21
+	ES414	Palencia	Intermediate region, close to a city	21
+	ES415	Salamanca	Intermediate region, close to a city	21
+	ES416	Segovia	Predominantly rural region, close to a city	31
+	ES417	Soria	Predominantly rural region, remote	32
+	ES418	Valladolid	Intermediate region, close to a city	21
+	ES419	Zamora	Predominantly rural region, close to a city	31
+	ES421	Albacete	Intermediate region, close to a city	21
+	ES422	Ciudad Real	Intermediate region, close to a city	21
+	ES423	Cuenca	Predominantly rural region, remote	32
+	ES424	Guadalajara	Intermediate region, close to a city	21
+	ES425	Toledo	Intermediate region, close to a city	21
+	ES431	Badajoz	Intermediate region, remote	22
+	ES432	Cáceres	Intermediate region, remote	22
+	ES511	Barcelona	Predominantly urban region	1
+	ES512	Girona	Intermediate region, close to a city	21
+	ES513	Lleida	Intermediate region, close to a city	21
+	ES514	Tarragona	Intermediate region, close to a city	21
+	ES521	Alicante/Alacant	Predominantly urban region	1
+	ES522	Castellón/Castelló	Intermediate region, close to a city	21
+	ES523	Valencia/València	Predominantly urban region	1
+	ES531	Eivissa y Formentera	Intermediate region, remote	22
+	ES532	Mallorca	Predominantly urban region	1
+	ES533	Menorca	Intermediate region, remote	22
+	ES611	Almería	Intermediate region, close to a city	21
+	ES612	Cádiz	Predominantly urban region	1
+	ES613	Córdoba	Predominantly urban region	1
+	ES614	Granada	Intermediate region, close to a city	21
+	ES615	Huelva	Intermediate region, close to a city	21
+	ES616	Jaén	Intermediate region, close to a city	21
+	ES617	Málaga	Predominantly urban region	1
+	ES618	Sevilla	Predominantly urban region	1
+	ES620	Murcia	Predominantly urban region	1
+	ES630	Ceuta	Predominantly urban region	1
+	ES640	Melilla	Intermediate region, close to a city	21
+	ES703	El Hierro	Predominantly rural region, remote	32
+	ES704	Fuerteventura	Intermediate region, remote	22
+	ES705	Gran Canaria	Predominantly urban region	1
+	ES706	La Gomera	Predominantly rural region, remote	32
+	ES707	La Palma	Intermediate region, remote	22
+	ES708	Lanzarote	Intermediate region, close to a city	21
+	ES709	Tenerife	Predominantly urban region	1
+	FR101	Paris	Predominantly urban region	1
+	FR102	Seine-et-Marne	Intermediate region, close to a city	21
+	FR103	Yvelines	Predominantly urban region	1
+	FR104	Essonne	Predominantly urban region	1
+	FR105	Hauts-de-Seine	Predominantly urban region	1
+	FR106	Seine-Saint-Denis	Predominantly urban region	1
+	FR107	Val-de-Marne	Predominantly urban region	1
+	FR108	Val-d’Oise	Predominantly urban region	1
+	FRB01	Cher	Predominantly rural region, close to a city	31
+	FRB02	Eure-et-Loir	Predominantly rural region, close to a city	31
+	FRB03	Indre	Predominantly rural region, close to a city	31
+	FRB04	Indre-et-Loire	Intermediate region, close to a city	21
+	FRB05	Loir-et-Cher	Predominantly rural region, close to a city	31
+	FRB06	Loiret	Intermediate region, close to a city	21
+	FRC11	Côte-d’Or	Intermediate region, close to a city	21
+	FRC12	Nièvre	Predominantly rural region, remote	32
+	FRC13	Saône-et-Loire	Predominantly rural region, close to a city	31
+	FRC14	Yonne	Predominantly rural region, remote	32
+	FRC21	Doubs	Intermediate region, close to a city	21
+	FRC22	Jura	Predominantly rural region, remote	32
+	FRC23	Haute-Saône	Predominantly rural region, close to a city	31
+	FRC24	Territoire de Belfort	Intermediate region, close to a city	21
+	FRD11	Calvados	Intermediate region, close to a city	21
+	FRD12	Manche	Predominantly rural region, close to a city	31
+	FRD13	Orne	Predominantly rural region, remote	32
+	FRD21	Eure	Predominantly rural region, close to a city	31
+	FRD22	Seine-Maritime	Intermediate region, close to a city	21
+	FRE11	Nord	Predominantly urban region	1
+	FRE12	Pas-de-Calais	Intermediate region, close to a city	21
+	FRE21	Aisne	Predominantly rural region, close to a city	31
+	FRE22	Oise	Intermediate region, close to a city	21
+	FRE23	Somme	Predominantly rural region, close to a city	31
+	FRF11	Bas-Rhin	Intermediate region, close to a city	21
+	FRF12	Haut-Rhin	Intermediate region, close to a city	21
+	FRF21	Ardennes	Predominantly rural region, close to a city	31
+	FRF22	Aube	Intermediate region, close to a city	21
+	FRF23	Marne	Intermediate region, close to a city	21
+	FRF24	Haute-Marne	Predominantly rural region, remote	32
+	FRF31	Meurthe-et-Moselle	Intermediate region, close to a city	21
+	FRF32	Meuse	Predominantly rural region, remote	32
+	FRF33	Moselle	Intermediate region, close to a city	21
+	FRF34	Vosges	Predominantly rural region, remote	32
+	FRG01	Loire-Atlantique	Predominantly urban region	1
+	FRG02	Maine-et-Loire	Intermediate region, close to a city	21
+	FRG03	Mayenne	Predominantly rural region, remote	32
+	FRG04	Sarthe	Predominantly rural region, close to a city	31
+	FRG05	Vendée	Predominantly rural region, remote	32
+	FRH01	Côtes-d’Armor	Predominantly rural region, close to a city	31
+	FRH02	Finistère	Predominantly rural region, close to a city	31
+	FRH03	Ille-et-Vilaine	Intermediate region, close to a city	21
+	FRH04	Morbihan	Predominantly rural region, close to a city	31
+	FRI11	Dordogne	Predominantly rural region, remote	32
+	FRI12	Gironde	Predominantly urban region	1
+	FRI13	Landes	Predominantly rural region, close to a city	31
+	FRI14	Lot-et-Garonne	Predominantly rural region, remote	32
+	FRI15	Pyrénées-Atlantiques	Intermediate region, close to a city	21
+	FRI21	Corrèze	Predominantly rural region, close to a city	31
+	FRI22	Creuse	Predominantly rural region, remote	32
+	FRI23	Haute-Vienne	Predominantly rural region, close to a city	31
+	FRI31	Charente	Predominantly rural region, close to a city	31
+	FRI32	Charente-Maritime	Predominantly rural region, close to a city	31
+	FRI33	Deux-Sèvres	Predominantly rural region, close to a city	31
+	FRI34	Vienne	Predominantly rural region, close to a city	31
+	FRJ11	Aude	Predominantly rural region, close to a city	31
+	FRJ12	Gard	Intermediate region, close to a city	21
+	FRJ13	Hérault	Intermediate region, close to a city	21
+	FRJ14	Lozère	Predominantly rural region, remote	32
+	FRJ15	Pyrénées-Orientales	Intermediate region, close to a city	21
+	FRJ21	Ariège	Predominantly rural region, remote	32
+	FRJ22	Aveyron	Predominantly rural region, remote	32
+	FRJ23	Haute-Garonne	Predominantly urban region	1
+	FRJ24	Gers	Predominantly rural region, remote	32
+	FRJ25	Lot	Predominantly rural region, remote	32
+	FRJ26	Hautes-Pyrénées	Predominantly rural region, close to a city	31
+	FRJ27	Tarn	Predominantly rural region, close to a city	31
+	FRJ28	Tarn-et-Garonne	Predominantly rural region, close to a city	31
+	FRK11	Allier	Predominantly rural region, remote	32
+	FRK12	Cantal	Predominantly rural region, remote	32
+	FRK13	Haute-Loire	Predominantly rural region, remote	32
+	FRK14	Puy-de-Dôme	Intermediate region, close to a city	21
+	FRK21	Ain	Predominantly rural region, close to a city	31
+	FRK22	Ardèche	Predominantly rural region, close to a city	31
+	FRK23	Drôme	Predominantly rural region, close to a city	31
+	FRK24	Isère	Intermediate region, close to a city	21
+	FRK25	Loire	Intermediate region, close to a city	21
+	FRK26	Rhône	Predominantly urban region	1
+	FRK27	Savoie	Intermediate region, close to a city	21
+	FRK28	Haute-Savoie	Intermediate region, close to a city	21
+	FRL01	Alpes-de-Haute-Provence	Predominantly rural region, remote	32
+	FRL02	Hautes-Alpes	Predominantly rural region, remote	32
+	FRL03	Alpes-Maritimes	Predominantly urban region	1
+	FRL04	Bouches-du-Rhône	Predominantly urban region	1
+	FRL05	Var	Intermediate region, close to a city	21
+	FRL06	Vaucluse	Intermediate region, close to a city	21
+	FRM01	Corse-du-Sud	Predominantly rural region, close to a city	31
+	FRM02	Haute-Corse	Predominantly rural region, remote	32
+	FRY10	Guadeloupe	Intermediate region, remote	22
+	FRY20	Martinique	Intermediate region, close to a city	21
+	FRY30	Guyane	Intermediate region, remote	22
+	FRY40	La Réunion	Predominantly urban region	1
+	FRY50	Mayotte	Intermediate region, remote	22
+	HR021	Bjelovarsko-bilogorska županija	Predominantly rural region, remote	32
+	HR022	Virovitičko-podravska županija	Predominantly rural region, remote	32
+	HR023	Požeško-slavonska županija	Predominantly rural region, close to a city	31
+	HR024	Brodsko-posavska županija	Intermediate region, close to a city	21
+	HR025	Osječko-baranjska županija	Intermediate region, close to a city	21
+	HR026	Vukovarsko-srijemska županija	Predominantly rural region, close to a city	31
+	HR027	Karlovačka županija	Predominantly rural region, close to a city	31
+	HR028	Sisačko-moslavačka županija	Predominantly rural region, remote	32
+	HR031	Primorsko-goranska županija	Intermediate region, close to a city	21
+	HR032	Ličko-senjska županija	Predominantly rural region, remote	32
+	HR033	Zadarska županija	Predominantly rural region, remote	32
+	HR034	Šibensko-kninska županija	Intermediate region, remote	22
+	HR035	Splitsko-dalmatinska županija	Intermediate region, close to a city	21
+	HR036	Istarska županija	Predominantly rural region, remote	32
+	HR037	Dubrovačko-neretvanska županija	Intermediate region, remote	22
+	HR050	Grad Zagreb	Predominantly urban region	1
+	HR061	Međimurska županija	Predominantly rural region, remote	32
+	HR062	Varaždinska županija	Intermediate region, remote	22
+	HR063	Koprivničko-križevačka županija	Predominantly rural region, remote	32
+	HR064	Krapinsko-zagorska županija	Predominantly rural region, close to a city	31
+	HR065	Zagrebačka županija	Predominantly rural region, close to a city	31
+	ITC11	Torino	Predominantly urban region	1
+	ITC12	Vercelli	Intermediate region, close to a city	21
+	ITC13	Biella	Intermediate region, close to a city	21
+	ITC14	Verbano-Cusio-Ossola	Intermediate region, remote	22
+	ITC15	Novara	Intermediate region, close to a city	21
+	ITC16	Cuneo	Predominantly rural region, close to a city	31
+	ITC17	Asti	Predominantly rural region, close to a city	31
+	ITC18	Alessandria	Predominantly rural region, close to a city	31
+	ITC20	Valle d’Aosta/Vallée d’Aoste	Intermediate region, remote	22
+	ITC31	Imperia	Predominantly urban region	1
+	ITC32	Savona	Intermediate region, close to a city	21
+	ITC33	Genova	Predominantly urban region	1
+	ITC34	La Spezia	Predominantly urban region	1
+	ITC41	Varese	Predominantly urban region	1
+	ITC42	Como	Predominantly urban region	1
+	ITC43	Lecco	Predominantly urban region	1
+	ITC44	Sondrio	Intermediate region, remote	22
+	ITC46	Bergamo	Predominantly urban region	1
+	ITC47	Brescia	Intermediate region, close to a city	21
+	ITC48	Pavia	Intermediate region, close to a city	21
+	ITC49	Lodi	Intermediate region, close to a city	21
+	ITC4A	Cremona	Intermediate region, close to a city	21
+	ITC4B	Mantova	Predominantly rural region, close to a city	31
+	ITC4C	Milano	Predominantly urban region	1
+	ITC4D	Monza e della Brianza	Predominantly urban region	1
+	ITF11	L’Aquila	Predominantly rural region, remote	32
+	ITF12	Teramo	Intermediate region, close to a city	21
+	ITF13	Pescara	Intermediate region, close to a city	21
+	ITF14	Chieti	Intermediate region, close to a city	21
+	ITF21	Isernia	Predominantly rural region, close to a city	31
+	ITF22	Campobasso	Predominantly rural region, close to a city	31
+	ITF31	Caserta	Predominantly urban region	1
+	ITF32	Benevento	Predominantly rural region, close to a city	31
+	ITF33	Napoli	Predominantly urban region	1
+	ITF34	Avellino	Intermediate region, close to a city	21
+	ITF35	Salerno	Intermediate region, close to a city	21
+	ITF43	Taranto	Predominantly urban region	1
+	ITF44	Brindisi	Predominantly urban region	1
+	ITF45	Lecce	Predominantly urban region	1
+	ITF46	Foggia	Predominantly rural region, close to a city	31
+	ITF47	Bari	Predominantly urban region	1
+	ITF48	Barletta-Andria-Trani	Predominantly urban region	1
+	ITF51	Potenza	Predominantly rural region, close to a city	31
+	ITF52	Matera	Intermediate region, close to a city	21
+	ITF61	Cosenza	Intermediate region, close to a city	21
+	ITF62	Crotone	Intermediate region, remote	22
+	ITF63	Catanzaro	Intermediate region, close to a city	21
+	ITF64	Vibo Valentia	Predominantly rural region, remote	32
+	ITF65	Reggio di Calabria	Intermediate region, close to a city	21
+	ITG11	Trapani	Intermediate region, remote	22
+	ITG12	Palermo	Predominantly urban region	1
+	ITG13	Messina	Intermediate region, close to a city	21
+	ITG14	Agrigento	Intermediate region, remote	22
+	ITG15	Caltanissetta	Predominantly urban region	1
+	ITG16	Enna	Intermediate region, remote	22
+	ITG17	Catania	Predominantly urban region	1
+	ITG18	Ragusa	Intermediate region, remote	22
+	ITG19	Siracusa	Predominantly urban region	1
+	ITG2D	Sassari	Intermediate region, close to a city	21
+	ITG2E	Nuoro	Predominantly rural region, remote	32
+	ITG2F	Cagliari	Predominantly urban region	1
+	ITG2G	Oristano	Predominantly rural region, remote	32
+	ITG2H	Sud Sardegna	Predominantly rural region, remote	32
+	ITH10	Bolzano-Bozen	Predominantly rural region, close to a city	31
+	ITH20	Trento	Intermediate region, close to a city	21
+	ITH31	Verona	Intermediate region, close to a city	21
+	ITH32	Vicenza	Intermediate region, close to a city	21
+	ITH33	Belluno	Predominantly rural region, remote	32
+	ITH34	Treviso	Intermediate region, close to a city	21
+	ITH35	Venezia	Predominantly urban region	1
+	ITH36	Padova	Intermediate region, close to a city	21
+	ITH37	Rovigo	Predominantly rural region, close to a city	31
+	ITH41	Pordenone	Intermediate region, close to a city	21
+	ITH42	Udine	Intermediate region, close to a city	21
+	ITH43	Gorizia	Predominantly urban region	1
+	ITH44	Trieste	Predominantly urban region	1
+	ITH51	Piacenza	Intermediate region, close to a city	21
+	ITH52	Parma	Intermediate region, close to a city	21
+	ITH53	Reggio nell’Emilia	Intermediate region, close to a city	21
+	ITH54	Modena	Intermediate region, close to a city	21
+	ITH55	Bologna	Intermediate region, close to a city	21
+	ITH56	Ferrara	Intermediate region, close to a city	21
+	ITH57	Ravenna	Intermediate region, close to a city	21
+	ITH58	Forlì-Cesena	Intermediate region, close to a city	21
+	ITH59	Rimini	Predominantly urban region	1
+	ITI11	Massa-Carrara	Intermediate region, close to a city	21
+	ITI12	Lucca	Intermediate region, close to a city	21
+	ITI13	Pistoia	Predominantly urban region	1
+	ITI14	Firenze	Predominantly urban region	1
+	ITI15	Prato	Predominantly urban region	1
+	ITI16	Livorno	Intermediate region, close to a city	21
+	ITI17	Pisa	Intermediate region, close to a city	21
+	ITI18	Arezzo	Intermediate region, remote	22
+	ITI19	Siena	Predominantly rural region, close to a city	31
+	ITI1A	Grosseto	Predominantly rural region, remote	32
+	ITI21	Perugia	Intermediate region, close to a city	21
+	ITI22	Terni	Intermediate region, close to a city	21
+	ITI31	Pesaro e Urbino	Intermediate region, close to a city	21
+	ITI32	Ancona	Intermediate region, close to a city	21
+	ITI33	Macerata	Intermediate region, close to a city	21
+	ITI34	Ascoli Piceno	Intermediate region, remote	22
+	ITI35	Fermo	Intermediate region, close to a city	21
+	ITI41	Viterbo	Predominantly rural region, close to a city	31
+	ITI42	Rieti	Predominantly rural region, close to a city	31
+	ITI43	Roma	Predominantly urban region	1
+	ITI44	Latina	Intermediate region, close to a city	21
+	ITI45	Frosinone	Intermediate region, remote	22
+	CY000	Cyprus	Intermediate region, close to a city	21
+	LV003	Kurzeme	Intermediate region, remote	22
+	LV005	Latgale	Intermediate region, remote	22
+	LV006	Rīga	Predominantly urban region	1
+	LV007	Pierīga	Intermediate region, close to a city	21
+	LV008	Vidzeme	Predominantly rural region, remote	32
+	LV009	Zemgale	Predominantly rural region, close to a city	31
+	LT011	Vilniaus apskritis	Predominantly urban region	1
+	LT021	Alytaus apskritis	Intermediate region, close to a city	21
+	LT022	Kauno apskritis	Intermediate region, close to a city	21
+	LT023	Klaipėdos apskritis	Intermediate region, close to a city	21
+	LT024	Marijampolės apskritis	Predominantly rural region, close to a city	31
+	LT025	Panevėžio apskritis	Intermediate region, close to a city	21
+	LT026	Šiaulių apskritis	Intermediate region, close to a city	21
+	LT027	Tauragės apskritis	Predominantly rural region, remote	32
+	LT028	Telšių apskritis	Intermediate region, remote	22
+	LT029	Utenos apskritis	Intermediate region, remote	22
+	LU000	Luxembourg	Intermediate region, close to a city	21
+	HU110	Budapest	Predominantly urban region	1
+	HU120	Pest	Intermediate region, close to a city	21
+	HU211	Fejér	Intermediate region, close to a city	21
+	HU212	Komárom-Esztergom	Intermediate region, close to a city	21
+	HU213	Veszprém	Intermediate region, close to a city	21
+	HU221	Győr-Moson-Sopron	Intermediate region, close to a city	21
+	HU222	Vas	Intermediate region, close to a city	21
+	HU223	Zala	Predominantly rural region, remote	32
+	HU231	Baranya	Intermediate region, close to a city	21
+	HU232	Somogy	Predominantly rural region, remote	32
+	HU233	Tolna	Predominantly rural region, remote	32
+	HU311	Borsod-Abaúj-Zemplén	Intermediate region, close to a city	21
+	HU312	Heves	Predominantly rural region, remote	32
+	HU313	Nógrád	Predominantly rural region, remote	32
+	HU321	Hajdú-Bihar	Intermediate region, close to a city	21
+	HU322	Jász-Nagykun-Szolnok	Intermediate region, remote	22
+	HU323	Szabolcs-Szatmár-Bereg	Predominantly rural region, close to a city	31
+	HU331	Bács-Kiskun	Intermediate region, close to a city	21
+	HU332	Békés	Intermediate region, remote	22
+	HU333	Csongrád	Intermediate region, close to a city	21
+	MT001	Malta	Predominantly urban region	1
+	MT002	Gozo and Comino/Għawdex u Kemmuna	Predominantly urban region	1
+	NL111	Oost-Groningen	Intermediate region, close to a city	21
+	NL112	Delfzijl en omgeving	Intermediate region, close to a city	21
+	NL113	Overig Groningen	Intermediate region, close to a city	21
+	NL124	Noord-Friesland	Intermediate region, close to a city	21
+	NL125	Zuidwest-Friesland	Intermediate region, close to a city	21
+	NL126	Zuidoost-Friesland	Intermediate region, close to a city	21
+	NL131	Noord-Drenthe	Intermediate region, close to a city	21
+	NL132	Zuidoost-Drenthe	Intermediate region, close to a city	21
+	NL133	Zuidwest-Drenthe	Intermediate region, close to a city	21
+	NL211	Noord-Overijssel	Intermediate region, close to a city	21
+	NL212	Zuidwest-Overijssel	Intermediate region, close to a city	21
+	NL213	Twente	Predominantly urban region	1
+	NL221	Veluwe	Predominantly urban region	1
+	NL224	Zuidwest-Gelderland	Intermediate region, close to a city	21
+	NL225	Achterhoek	Intermediate region, close to a city	21
+	NL226	Arnhem/Nijmegen	Predominantly urban region	1
+	NL230	Flevoland	Predominantly urban region	1
+	NL310	Utrecht	Predominantly urban region	1
+	NL321	Kop van Noord-Holland	Predominantly urban region	1
+	NL323	IJmond	Predominantly urban region	1
+	NL324	Agglomeratie Haarlem	Predominantly urban region	1
+	NL325	Zaanstreek	Predominantly urban region	1
+	NL327	Het Gooi en Vechtstreek	Predominantly urban region	1
+	NL328	Alkmaar en omgeving	Predominantly urban region	1
+	NL329	Groot-Amsterdam	Predominantly urban region	1
+	NL332	Agglomeratie ’s-Gravenhage	Predominantly urban region	1
+	NL333	Delft en Westland	Predominantly urban region	1
+	NL337	Agglomeratie Leiden en Bollenstreek	Predominantly urban region	1
+	NL33A	Zuidoost-Zuid-Holland	Predominantly urban region	1
+	NL33B	Oost-Zuid-Holland	Predominantly urban region	1
+	NL33C	Groot-Rijnmond	Predominantly urban region	1
+	NL341	Zeeuwsch-Vlaanderen	Predominantly rural region, close to a city	31
+	NL342	Overig Zeeland	Intermediate region, close to a city	21
+	NL411	West-Noord-Brabant	Predominantly urban region	1
+	NL412	Midden-Noord-Brabant	Predominantly urban region	1
+	NL413	Noordoost-Noord-Brabant	Intermediate region, close to a city	21
+	NL414	Zuidoost-Noord-Brabant	Predominantly urban region	1
+	NL421	Noord-Limburg	Intermediate region, close to a city	21
+	NL422	Midden-Limburg	Intermediate region, close to a city	21
+	NL423	Zuid-Limburg	Predominantly urban region	1
+	AT111	Mittelburgenland	Predominantly rural region, close to a city	31
+	AT112	Nordburgenland	Predominantly rural region, close to a city	31
+	AT113	Südburgenland	Predominantly rural region, close to a city	31
+	AT121	Mostviertel-Eisenwurzen	Predominantly rural region, close to a city	31
+	AT122	Niederösterreich-Süd	Intermediate region, close to a city	21
+	AT123	Sankt Pölten	Predominantly rural region, close to a city	31
+	AT124	Waldviertel	Predominantly rural region, remote	32
+	AT125	Weinviertel	Predominantly rural region, close to a city	31
+	AT126	Wiener Umland/Nordteil	Predominantly urban region	1
+	AT127	Wiener Umland/Südteil	Intermediate region, close to a city	21
+	AT130	Wien	Predominantly urban region	1
+	AT211	Klagenfurt-Villach	Intermediate region, close to a city	21
+	AT212	Oberkärnten	Predominantly rural region, remote	32
+	AT213	Unterkärnten	Predominantly rural region, close to a city	31
+	AT221	Graz	Intermediate region, close to a city	21
+	AT222	Liezen	Predominantly rural region, remote	32
+	AT223	Östliche Obersteiermark	Intermediate region, close to a city	21
+	AT224	Oststeiermark	Predominantly rural region, close to a city	31
+	AT225	West- und Südsteiermark	Predominantly rural region, close to a city	31
+	AT226	Westliche Obersteiermark	Predominantly rural region, remote	32
+	AT311	Innviertel	Predominantly rural region, close to a city	31
+	AT312	Linz-Wels	Intermediate region, close to a city	21
+	AT313	Mühlviertel	Predominantly rural region, close to a city	31
+	AT314	Steyr-Kirchdorf	Predominantly rural region, close to a city	31
+	AT315	Traunviertel	Predominantly rural region, close to a city	31
+	AT321	Lungau	Predominantly rural region, remote	32
+	AT322	Pinzgau-Pongau	Predominantly rural region, remote	32
+	AT323	Salzburg und Umgebung	Intermediate region, close to a city	21
+	AT331	Außerfern	Predominantly rural region, close to a city	31
+	AT332	Innsbruck	Predominantly urban region	1
+	AT333	Osttirol	Predominantly rural region, remote	32
+	AT334	Tiroler Oberland	Predominantly rural region, close to a city	31
+	AT335	Tiroler Unterland	Predominantly rural region, close to a city	31
+	AT341	Bludenz-Bregenzer Wald	Predominantly rural region, close to a city	31
+	AT342	Rheintal-Bodenseegebiet	Predominantly urban region	1
+	PL213	Miasto Kraków	Predominantly urban region	1
+	PL214	Krakowski	Intermediate region, close to a city	21
+	PL217	Tarnowski	Predominantly rural region, close to a city	31
+	PL218	Nowosądecki	Predominantly rural region, close to a city	31
+	PL219	Nowotarski	Predominantly rural region, remote	32
+	PL21A	Oświęcimski	Intermediate region, close to a city	21
+	PL224	Częstochowski	Intermediate region, close to a city	21
+	PL225	Bielski	Intermediate region, close to a city	21
+	PL227	Rybnicki	Predominantly urban region	1
+	PL228	Bytomski	Predominantly urban region	1
+	PL229	Gliwicki	Predominantly urban region	1
+	PL22A	Katowicki	Predominantly urban region	1
+	PL22B	Sosnowiecki	Predominantly urban region	1
+	PL22C	Tyski	Predominantly urban region	1
+	PL411	Pilski	Predominantly rural region, close to a city	31
+	PL414	Koniński	Predominantly rural region, close to a city	31
+	PL415	Miasto Poznań	Predominantly urban region	1
+	PL416	Kaliski	Predominantly rural region, close to a city	31
+	PL417	Leszczyński	Predominantly rural region, close to a city	31
+	PL418	Poznański	Intermediate region, close to a city	21
+	PL424	Miasto Szczecin	Intermediate region, close to a city	21
+	PL426	Koszaliński	Intermediate region, close to a city	21
+	PL427	Szczecinecko-pyrzycki	Predominantly rural region, remote	32
+	PL428	Szczeciński	Intermediate region, close to a city	21
+	PL431	Gorzowski	Intermediate region, close to a city	21
+	PL432	Zielonogórski	Intermediate region, close to a city	21
+	PL514	Miasto Wrocław	Predominantly urban region	1
+	PL515	Jeleniogórski	Intermediate region, close to a city	21
+	PL516	Legnicko-głogowski	Intermediate region, close to a city	21
+	PL517	Wałbrzyski	Intermediate region, close to a city	21
+	PL518	Wrocławski	Intermediate region, close to a city	21
+	PL523	Nyski	Predominantly rural region, remote	32
+	PL524	Opolski	Intermediate region, close to a city	21
+	PL613	Bydgosko-toruński	Predominantly urban region	1
+	PL616	Grudziądzki	Predominantly rural region, close to a city	31
+	PL617	Inowrocławski	Predominantly rural region, close to a city	31
+	PL618	Świecki	Predominantly rural region, close to a city	31
+	PL619	Włocławski	Predominantly rural region, close to a city	31
+	PL621	Elbląski	Intermediate region, close to a city	21
+	PL622	Olsztyński	Intermediate region, close to a city	21
+	PL623	Ełcki	Intermediate region, close to a city	21
+	PL633	Trójmiejski	Predominantly urban region	1
+	PL634	Gdański	Intermediate region, close to a city	21
+	PL636	Słupski	Intermediate region, close to a city	21
+	PL637	Chojnicki	Predominantly rural region, remote	32
+	PL638	Starogardzki	Intermediate region, close to a city	21
+	PL711	Miasto Łódź	Predominantly urban region	1
+	PL712	Łódzki	Predominantly urban region	1
+	PL713	Piotrkowski	Predominantly rural region, close to a city	31
+	PL714	Sieradzki	Predominantly rural region, close to a city	31
+	PL715	Skierniewicki	Predominantly rural region, close to a city	31
+	PL721	Kielecki	Intermediate region, close to a city	21
+	PL722	Sandomiersko-jędrzejowski	Predominantly rural region, close to a city	31
+	PL811	Bialski	Predominantly rural region, remote	32
+	PL812	Chełmsko-zamojski	Predominantly rural region, close to a city	31
+	PL814	Lubelski	Intermediate region, close to a city	21
+	PL815	Puławski	Predominantly rural region, close to a city	31
+	PL821	Krośnieński	Predominantly rural region, remote	32
+	PL822	Przemyski	Predominantly rural region, close to a city	31
+	PL823	Rzeszowski	Predominantly rural region, close to a city	31
+	PL824	Tarnobrzeski	Predominantly rural region, close to a city	31
+	PL841	Białostocki	Intermediate region, close to a city	21
+	PL842	Łomżyński	Predominantly rural region, close to a city	31
+	PL843	Suwalski	Predominantly rural region, close to a city	31
+	PL911	Miasto Warszawa	Predominantly urban region	1
+	PL912	Warszawski wschodni	Intermediate region, close to a city	21
+	PL913	Warszawski zachodni	Intermediate region, close to a city	21
+	PL921	Radomski	Intermediate region, close to a city	21
+	PL922	Ciechanowski	Predominantly rural region, remote	32
+	PL923	Płocki	Predominantly rural region, close to a city	31
+	PL924	Ostrołęcki	Predominantly rural region, remote	32
+	PL925	Siedlecki	Predominantly rural region, close to a city	31
+	PL926	Żyrardowski	Predominantly rural region, close to a city	31
+	PT111	Alto Minho	Predominantly rural region, close to a city	31
+	PT112	Cávado	Intermediate region, close to a city	21
+	PT119	Ave	Intermediate region, close to a city	21
+	PT11A	Área Metropolitana do Porto	Predominantly urban region	1
+	PT11B	Alto Tâmega	Predominantly rural region, remote	32
+	PT11C	Tâmega e Sousa	Intermediate region, close to a city	21
+	PT11D	Douro	Predominantly rural region, remote	32
+	PT11E	Terras de Trás-os-Montes	Predominantly rural region, remote	32
+	PT150	Algarve	Intermediate region, close to a city	21
+	PT16B	Oeste	Predominantly rural region, close to a city	31
+	PT16D	Região de Aveiro	Intermediate region, close to a city	21
+	PT16E	Região de Coimbra	Predominantly rural region, close to a city	31
+	PT16F	Região de Leiria	Predominantly rural region, remote	32
+	PT16G	Viseu Dão Lafões	Predominantly rural region, close to a city	31
+	PT16H	Beira Baixa	Predominantly rural region, remote	32
+	PT16I	Médio Tejo	Predominantly rural region, remote	32
+	PT16J	Beiras e Serra da Estrela	Predominantly rural region, remote	32
+	PT170	Área Metropolitana de Lisboa	Predominantly urban region	1
+	PT181	Alentejo Litoral	Predominantly rural region, remote	32
+	PT184	Baixo Alentejo	Predominantly rural region, remote	32
+	PT185	Lezíria do Tejo	Predominantly rural region, close to a city	31
+	PT186	Alto Alentejo	Predominantly rural region, remote	32
+	PT187	Alentejo Central	Predominantly rural region, remote	32
+	PT200	Região Autónoma dos Açores	Intermediate region, close to a city	21
+	PT300	Região Autónoma da Madeira	Predominantly urban region	1
+	RO111	Bihor	Predominantly rural region, close to a city	31
+	RO112	Bistriţa-Năsăud	Predominantly rural region, close to a city	31
+	RO113	Cluj	Intermediate region, close to a city	21
+	RO114	Maramureş	Predominantly rural region, close to a city	31
+	RO115	Satu Mare	Predominantly rural region, close to a city	31
+	RO116	Sălaj	Predominantly rural region, remote	32
+	RO121	Alba	Predominantly rural region, close to a city	31
+	RO122	Braşov	Intermediate region, close to a city	21
+	RO123	Covasna	Predominantly rural region, close to a city	31
+	RO124	Harghita	Predominantly rural region, remote	32
+	RO125	Mureş	Predominantly rural region, close to a city	31
+	RO126	Sibiu	Intermediate region, close to a city	21
+	RO211	Bacău	Predominantly rural region, close to a city	31
+	RO212	Botoşani	Predominantly rural region, close to a city	31
+	RO213	Iaşi	Intermediate region, close to a city	21
+	RO214	Neamţ	Predominantly rural region, close to a city	31
+	RO215	Suceava	Predominantly rural region, close to a city	31
+	RO216	Vaslui	Predominantly rural region, close to a city	31
+	RO221	Brăila	Intermediate region, close to a city	21
+	RO222	Buzău	Predominantly rural region, close to a city	31
+	RO223	Constanţa	Intermediate region, close to a city	21
+	RO224	Galaţi	Intermediate region, close to a city	21
+	RO225	Tulcea	Predominantly rural region, close to a city	31
+	RO226	Vrancea	Predominantly rural region, close to a city	31
+	RO311	Argeş	Predominantly rural region, close to a city	31
+	RO312	Călăraşi	Predominantly rural region, close to a city	31
+	RO313	Dâmboviţa	Predominantly rural region, close to a city	31
+	RO314	Giurgiu	Predominantly rural region, close to a city	31
+	RO315	Ialomiţa	Predominantly rural region, remote	32
+	RO316	Prahova	Intermediate region, close to a city	21
+	RO317	Teleorman	Predominantly rural region, remote	32
+	RO321	Bucureşti	Predominantly urban region	1
+	RO322	Ilfov	Predominantly urban region	1
+	RO411	Dolj	Intermediate region, close to a city	21
+	RO412	Gorj	Predominantly rural region, close to a city	31
+	RO413	Mehedinţi	Predominantly rural region, close to a city	31
+	RO414	Olt	Predominantly rural region, close to a city	31
+	RO415	Vâlcea	Predominantly rural region, close to a city	31
+	RO421	Arad	Intermediate region, close to a city	21
+	RO422	Caraş-Severin	Predominantly rural region, remote	32
+	RO423	Hunedoara	Intermediate region, remote	22
+	RO424	Timiş	Intermediate region, close to a city	21
+	SI031	Pomurska	Predominantly rural region, close to a city	31
+	SI032	Podravska	Predominantly rural region, close to a city	31
+	SI033	Koroška	Predominantly rural region, remote	32
+	SI034	Savinjska	Predominantly rural region, close to a city	31
+	SI035	Zasavska	Predominantly rural region, close to a city	31
+	SI036	Posavska	Predominantly rural region, close to a city	31
+	SI037	Jugovzhodna Slovenija	Predominantly rural region, close to a city	31
+	SI038	Primorsko-notranjska	Predominantly rural region, close to a city	31
+	SI041	Osrednjeslovenska	Intermediate region, close to a city	21
+	SI042	Gorenjska	Intermediate region, close to a city	21
+	SI043	Goriška	Predominantly rural region, close to a city	31
+	SI044	Obalno-kraška	Intermediate region, close to a city	21
+	SK010	Bratislavský kraj	Predominantly urban region	1
+	SK021	Trnavský kraj	Predominantly rural region, close to a city	31
+	SK022	Trenčiansky kraj	Intermediate region, close to a city	21
+	SK023	Nitriansky kraj	Intermediate region, close to a city	21
+	SK031	Žilinský kraj	Intermediate region, close to a city	21
+	SK032	Banskobystrický kraj	Predominantly rural region, close to a city	31
+	SK041	Prešovský kraj	Predominantly rural region, close to a city	31
+	SK042	Košický kraj	Intermediate region, close to a city	21
+	FI193	Keski-Suomi	Predominantly rural region, close to a city	31
+	FI194	Etelä-Pohjanmaa	Predominantly rural region, remote	32
+	FI195	Pohjanmaa	Predominantly rural region, remote	32
+	FI196	Satakunta	Predominantly rural region, remote	32
+	FI197	Pirkanmaa	Intermediate region, close to a city	21
+	FI1B1	Helsinki-Uusimaa	Predominantly urban region	1
+	FI1C1	Varsinais-Suomi	Intermediate region, close to a city	21
+	FI1C2	Kanta-Häme	Intermediate region, close to a city	21
+	FI1C3	Päijät-Häme	Intermediate region, close to a city	21
+	FI1C4	Kymenlaakso	Intermediate region, remote	22
+	FI1C5	Etelä-Karjala	Intermediate region, remote	22
+	FI1D1	Etelä-Savo	Predominantly rural region, remote	32
+	FI1D2	Pohjois-Savo	Predominantly rural region, close to a city	31
+	FI1D3	Pohjois-Karjala	Predominantly rural region, remote	32
+	FI1D5	Keski-Pohjanmaa	Predominantly rural region, remote	32
+	FI1D7	Lappi	Predominantly rural region, remote	32
+	FI1D8	Kainuu	Predominantly rural region, remote	32
+	FI1D9	Pohjois-Pohjanmaa	Predominantly rural region, close to a city	31
+	FI200	Åland	Predominantly rural region, remote	32
+	SE110	Stockholms län	Predominantly urban region	1
+	SE121	Uppsala län	Intermediate region, close to a city	21
+	SE122	Södermanlands län	Intermediate region, close to a city	21
+	SE123	Östergötlands län	Intermediate region, close to a city	21
+	SE124	Örebro län	Intermediate region, close to a city	21
+	SE125	Västmanlands län	Intermediate region, close to a city	21
+	SE211	Jönköpings län	Intermediate region, close to a city	21
+	SE212	Kronobergs län	Predominantly rural region, remote	32
+	SE213	Kalmar län	Predominantly rural region, remote	32
+	SE214	Gotlands län	Predominantly rural region, remote	32
+	SE221	Blekinge län	Intermediate region, remote	22
+	SE224	Skåne län	Intermediate region, close to a city	21
+	SE231	Hallands län	Intermediate region, close to a city	21
+	SE232	Västra Götalands län	Predominantly urban region	1
+	SE311	Värmlands län	Intermediate region, remote	22
+	SE312	Dalarnas län	Predominantly rural region, remote	32
+	SE313	Gävleborgs län	Intermediate region, remote	22
+	SE321	Västernorrlands län	Intermediate region, remote	22
+	SE322	Jämtlands län	Predominantly rural region, remote	32
+	SE331	Västerbottens län	Intermediate region, close to a city	21
+	SE332	Norrbottens län	Intermediate region, remote	22
+	IS001	Höfuðborgarsvæði	Predominantly urban region	1
+	IS002	Landsbyggð	Predominantly rural region, remote	32
+	LI000	Liechtenstein	Predominantly urban region	1
+	NO020	Innlandet	Predominantly rural region, remote	32
+	NO060	Trøndelag	Intermediate region, close to a city	21
+	NO071	Nordland	Predominantly rural region, remote	32
+	NO074	Troms og Finnmark	Predominantly rural region, remote	32
+	NO081	Oslo	Predominantly urban region	1
+	NO082	Viken	Intermediate region, close to a city	21
+	NO091	Vestfold og Telemark	Intermediate region, remote	22
+	NO092	Agder	Intermediate region, close to a city	21
+	NO0A1	Rogaland	Intermediate region, close to a city	21
+	NO0A2	Vestland	Intermediate region, close to a city	21
+	NO0A3	Møre og Romsdal	Predominantly rural region, remote	32
+	NO0B1	Jan Mayen	Predominantly rural region, remote	32
+	NO0B2	Svalbard	Predominantly rural region, remote	32
+	CH011	Vaud	Intermediate region, close to a city	21
+	CH012	Valais / Wallis	Intermediate region, remote	22
+	CH013	Genève	Predominantly urban region	1
+	CH021	Bern / Berne	Intermediate region, close to a city	21
+	CH022	Fribourg / Freiburg	Intermediate region, close to a city	21
+	CH023	Solothurn	Predominantly urban region	1
+	CH024	Neuchâtel	Intermediate region, close to a city	21
+	CH025	Jura	Predominantly rural region, close to a city	31
+	CH031	Basel-Stadt	Predominantly urban region	1
+	CH032	Basel-Landschaft	Predominantly urban region	1
+	CH033	Aargau	Predominantly urban region	1
+	CH040	Zürich	Predominantly urban region	1
+	CH051	Glarus	Intermediate region, close to a city	21
+	CH052	Schaffhausen	Intermediate region, close to a city	21
+	CH053	Appenzell Ausserrhoden	Intermediate region, close to a city	21
+	CH054	Appenzell Innerrhoden	Intermediate region, close to a city	21
+	CH055	St. Gallen	Intermediate region, close to a city	21
+	CH056	Graubünden / Grigioni / Grischun	Predominantly rural region, remote	32
+	CH057	Thurgau	Intermediate region, close to a city	21
+	CH061	Luzern	Intermediate region, close to a city	21
+	CH062	Uri	Intermediate region, close to a city	21
+	CH063	Schwyz	Intermediate region, close to a city	21
+	CH064	Obwalden	Intermediate region, close to a city	21
+	CH065	Nidwalden	Intermediate region, close to a city	21
+	CH066	Zug	Predominantly urban region	1
+	CH070	Ticino	Predominantly urban region	1

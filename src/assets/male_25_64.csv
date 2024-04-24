@@ -1,0 +1,685 @@
+row_id,population_code,population,indicator_code,indicator,unit_code,unit,geo_code,geo,2021,2023
+34327,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AL,Albania,6.42,:
+34328,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AT,Austria,53.15,52.6
+34329,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,18.92,35.63
+34330,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BE,Belgium,29.93,40.82
+34331,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BG,Bulgaria,21.09,23.96
+34332,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CH,Switzerland,52.89,54.79
+34333,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CY,Cyprus,38.68,50.06
+34334,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CZ,Czechia,23,45.13 b
+34335,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DE,Germany,32.45,49.54
+34336,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DK,Denmark,61.5,64.09
+34337,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EA,Euro area,43.42,48.16 e
+34338,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EE,Estonia,47.42,54.73
+34339,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EL,Greece,23.54,29.29
+34340,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ES,Spain,50.24,50.02
+34341,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),41.61,46.66 e
+34342,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FI,Finland,65.37,69.24
+34343,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FR,France,49.02,45.87
+34344,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HR,Croatia,44.71,54.58
+34345,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HU,Hungary,36.08,44.85
+34346,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IE,Ireland,55.62,:
+34347,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IS,Iceland,67.18,:
+34348,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IT,Italy,47.72,48.21
+34349,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LT,Lithuania,41.14,38.68
+34350,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LU,Luxembourg,48.17,47.01
+34351,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LV,Latvia,39.77,33.31
+34352,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ME,Montenegro,26.56,27.67
+34353,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MK,North Macedonia,9.55,:
+34354,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MT,Malta,33.39,40.2
+34355,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NL,Netherlands,65.69,71.1
+34356,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NO,Norway,66.51,67.27
+34357,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PL,Poland,40.6,46.17
+34358,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PT,Portugal,22.78,24.26
+34359,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RO,Romania,17.63,19.11
+34360,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RS,Serbia,31.95,34.73
+34361,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SE,Sweden,59.23,57.93
+34362,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SI,Slovenia,36.03,41.84
+34363,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SK,Slovakia,32.35,34.2
+34364,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,TR,Türkiye,26.17,23.98
+34365,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,7.81,:
+34366,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,55.2,53.57
+34367,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,22.72,39.74
+34368,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,31.54,42.62
+34369,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,25.55,27.56
+34370,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,53.48,54.97
+34371,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,41.13,53.12
+34372,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,24.47,46.46 b
+34373,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,34.61,52.14
+34374,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,61.97,64.46
+34375,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,46.97,50.94 e
+34376,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,50.98,57.91
+34377,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,27.93,32.53
+34378,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,52.24,51.48
+34379,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),45.14,49.51 e
+34380,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,66.21,69.81
+34381,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,52.61,48.53
+34382,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,48.52,59.66
+34383,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,39.37,47.69
+34384,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,56.11,:
+34385,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,67.29,:
+34386,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,55.11,52.88
+34387,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,46.35,43.74
+34388,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,48.77,47.23
+34389,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,42.54,35.22
+34390,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,30.08,29.59
+34391,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,10.43,:
+34392,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,36.84,43.08
+34393,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,70.02,71.62
+34394,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,66.66,67.35
+34395,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,44.81,50.82
+34396,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,25.99,26.55
+34397,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,19.87,20.54
+34398,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,35.54,37.78
+34399,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,60.93,59.04
+34400,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,38.98,44.31
+34401,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,35.37,37.73
+34402,M_Y25_64,Male age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,29.43,25.93
+34403,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AL,Albania,17.37,:
+34404,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AT,Austria,49.28,49.39
+34405,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,8.88,17.6
+34406,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BE,Belgium,31.11,31.08
+34407,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BG,Bulgaria,19.65,22.58
+34408,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CH,Switzerland,45.64,47.45
+34409,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CY,Cyprus,14.8,31.96
+34410,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CZ,Czechia,29.76,29.11
+34411,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DE,Germany,31.18,37.33
+34412,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DK,Denmark,38.08,36.51
+34413,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EA,Euro area,36.17,37.58 e
+34414,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EE,Estonia,32.34,38.78
+34415,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EL,Greece,19.44,18.12
+34416,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ES,Spain,41.61,40.67
+34417,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),33.67,35.57 e
+34418,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FI,Finland,54.2,57.14
+34419,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FR,France,40.67,40.3
+34420,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HR,Croatia,26.33,22.08
+34421,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HU,Hungary,25.99,32.04
+34422,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IE,Ireland,49.27,:
+34423,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IS,Iceland,46.48,:
+34424,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IT,Italy,32.24,33.05
+34425,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LT,Lithuania,35.05,34.8
+34426,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LU,Luxembourg,45.87,44.86
+34427,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LV,Latvia,21.37,18.33
+34428,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ME,Montenegro,25.38,23.93
+34429,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MK,North Macedonia,10.72,:
+34430,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MT,Malta,35.48,36.69
+34431,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NL,Netherlands,46.75,48.08
+34432,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NO,Norway,42.43,44.28
+34433,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PL,Poland,24.6,29.49
+34434,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PT,Portugal,35.86,41.56
+34435,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RO,Romania,16.88,18.53
+34436,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RS,Serbia,18.73,1.71
+34437,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SE,Sweden,39.27,39.24
+34438,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SI,Slovenia,28.06,30.59
+34439,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SK,Slovakia,28.09,24.1
+34440,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,TR,Türkiye,23.65,27.49
+34441,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,21.14,:
+34442,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,51.18,50.3
+34443,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,10.66,19.63
+34444,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,32.79,32.45
+34445,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,23.8,25.97
+34446,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,46.15,47.61
+34447,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,15.74,33.92
+34448,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,31.66,29.96
+34449,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,33.25,39.29
+34450,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,38.37,36.73
+34451,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,39.13,39.75 e
+34452,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,34.77,41.03
+34453,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,23.07,20.12
+34454,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,43.26,41.86
+34455,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),36.53,37.73 e
+34456,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,54.9,57.61
+34457,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,43.65,42.64
+34458,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,28.57,24.13
+34459,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,28.36,34.07
+34460,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,49.7,:
+34461,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,46.56,:
+34462,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,37.23,36.25
+34463,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,39.49,39.36
+34464,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,46.44,45.07
+34465,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,22.86,19.38
+34466,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,28.74,25.59
+34467,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,11.7,:
+34468,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,39.16,39.32
+34469,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,49.83,48.43
+34470,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,42.53,44.33
+34471,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,27.15,32.46
+34472,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,40.91,45.5
+34473,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,19.03,19.92
+34474,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,20.83,1.86
+34475,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,40.4,40
+34476,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,30.36,32.4
+34477,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,30.71,26.59
+34478,M_Y25_64,Male age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,26.6,29.73
+34479,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AL,Albania,25.99,:
+34480,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AT,Austria,61.28,65.19
+34481,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,40.18,47.87
+34482,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BE,Belgium,51.74,55.73
+34483,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BG,Bulgaria,29.48,30.04
+34484,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CH,Switzerland,69.33,69.28
+34485,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CY,Cyprus,50.23,52.44
+34486,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CZ,Czechia,54.89,70.06
+34487,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DE,Germany,51.16,60.3
+34488,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DK,Denmark,75.02,74.12
+34489,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EA,Euro area,57.74,59.90 e
+34490,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EE,Estonia,57.63,63.74
+34491,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EL,Greece,43.84,50.26
+34492,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ES,Spain,66.2,65.41
+34493,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),55.41,58.27 e
+34494,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FI,Finland,77.85,82.29
+34495,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FR,France,62.06,57.46
+34496,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HR,Croatia,50.5,53.49
+34497,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HU,Hungary,42.68,48.16
+34498,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IE,Ireland,69.77,:
+34499,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IS,Iceland,81.25,:
+34500,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IT,Italy,55.88,56.79
+34501,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LT,Lithuania,46.62,47.57
+34502,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LU,Luxembourg,61.51,65.05
+34503,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LV,Latvia,49.51,42.78
+34504,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ME,Montenegro,56.14,56.54
+34505,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MK,North Macedonia,28.37,:
+34506,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MT,Malta,65.48,65.6
+34507,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NL,Netherlands,76.27,80.97
+34508,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NO,Norway,79.81,80.39
+34509,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PL,Poland,50.34,56.51
+34510,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PT,Portugal,39.65,43.23
+34511,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RO,Romania,27.09,28.7
+34512,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RS,Serbia,54.86,57.01
+34513,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SE,Sweden,74.2,72.46
+34514,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SI,Slovenia,49.05,47.35
+34515,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SK,Slovakia,44.72,44.01
+34516,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,TR,Türkiye,38.66,40.06
+34517,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,31.63,:
+34518,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,63.64,66.4
+34519,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,48.25,53.39
+34520,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,54.53,58.19
+34521,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,35.72,34.56
+34522,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,70.11,69.51
+34523,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,53.41,55.65
+34524,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,58.39,72.12
+34525,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,54.57,63.46
+34526,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,75.59,74.56
+34527,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,62.45,63.36 e
+34528,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,61.96,67.43
+34529,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,52,55.83
+34530,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,68.83,67.32
+34531,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),60.11,61.82 e
+34532,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,78.85,82.96
+34533,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,66.61,60.8
+34534,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,54.8,58.47
+34535,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,46.57,51.22
+34536,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,70.39,:
+34537,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,81.38,:
+34538,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,64.53,62.29
+34539,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,52.53,53.8
+34540,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,62.29,65.35
+34541,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,52.94,45.23
+34542,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,63.59,60.44
+34543,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,30.98,:
+34544,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,72.26,70.31
+34545,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,81.29,81.56
+34546,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,79.99,80.49
+34547,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,55.57,62.2
+34548,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,45.23,47.33
+34549,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,30.53,30.85
+34550,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,61.02,62
+34551,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,76.33,73.86
+34552,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,53.07,50.15
+34553,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,48.89,48.55
+34554,M_Y25_64,Male age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,43.48,43.33
+34555,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AL,Albania,10.98,:
+34556,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AT,Austria,54.84,51.38
+34557,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,24.12,24.13
+34558,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BE,Belgium,48.18,52.66
+34559,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BG,Bulgaria,20.03,23.62
+34560,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CH,Switzerland,48.04,52.34
+34561,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CY,Cyprus,31.39,47.46
+34562,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CZ,Czechia,32.29,42.82
+34563,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DE,Germany,26.36,31.3
+34564,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DK,Denmark,64.4,56.79
+34565,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EA,Euro area,42.02,42.47 e
+34566,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EE,Estonia,37.84,45.97
+34567,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EL,Greece,30.91,33.93
+34568,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ES,Spain,50.33,49.95
+34569,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),40.08,41.24 e
+34570,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FI,Finland,57.9,56.67
+34571,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FR,France,48.39,45.24
+34572,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HR,Croatia,21.12,34.7
+34573,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HU,Hungary,26.1,33.51
+34574,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IE,Ireland,61,:
+34575,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IS,Iceland,47.62,:
+34576,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IT,Italy,42.54,43.29
+34577,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LT,Lithuania,29.71,28.47
+34578,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LU,Luxembourg,51.24,47.8
+34579,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LV,Latvia,30.74,28.38
+34580,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ME,Montenegro,35.29,40.5
+34581,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MK,North Macedonia,19.51,:
+34582,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MT,Malta,38.59,44.11
+34583,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NL,Netherlands,60.43,58.3
+34584,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NO,Norway,67.85,70.74
+34585,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PL,Poland,34.1,36.01
+34586,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PT,Portugal,43.96,45.03
+34587,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RO,Romania,25.74,24.72
+34588,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RS,Serbia,24.18,32.83
+34589,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SE,Sweden,55.55,57.75
+34590,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SI,Slovenia,39.69,40.85
+34591,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SK,Slovakia,39.02,36.5
+34592,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,TR,Türkiye,16.4,18.2
+34593,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,13.36,:
+34594,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,56.95,52.34
+34595,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,28.96,26.91
+34596,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,50.78,54.98
+34597,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,24.27,27.17
+34598,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,48.58,52.51
+34599,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,33.38,50.36
+34600,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,34.35,44.09
+34601,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,28.12,32.94
+34602,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,64.89,57.13
+34603,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,45.45,44.92 e
+34604,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,40.68,48.64
+34605,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,36.67,37.69
+34606,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,52.33,51.41
+34607,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),43.48,43.76 e
+34608,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,58.64,57.14
+34609,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,51.93,47.86
+34610,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,22.92,37.93
+34611,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,28.48,35.63
+34612,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,61.54,:
+34613,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,47.69,:
+34614,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,49.12,47.48
+34615,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,33.48,32.19
+34616,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,51.88,48.02
+34617,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,32.87,30
+34618,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,39.97,43.29
+34619,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,21.31,:
+34620,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,42.58,47.27
+34621,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,64.4,58.73
+34622,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,68,70.82
+34623,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,37.64,39.64
+34624,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,50.15,49.29
+34625,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,29.01,26.58
+34626,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,26.9,35.71
+34627,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,57.15,58.86
+34628,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,42.94,43.27
+34629,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,42.66,40.27
+34630,M_Y25_64,Male age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,18.44,19.68
+34631,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AL,Albania,5.43,:
+34632,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AT,Austria,14.93,14.75
+34633,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,1.83,4.03
+34634,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BE,Belgium,8.53,9.6
+34635,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BG,Bulgaria,1.6,2.45
+34636,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CH,Switzerland,13.88,16.09
+34637,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CY,Cyprus,6.43,7.77
+34638,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CZ,Czechia,8.71,10.73
+34639,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DE,Germany,7.01,9.41
+34640,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DK,Denmark,15.26,16.32
+34641,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EA,Euro area,8.74,9.71 e
+34642,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EE,Estonia,8.14,10.93
+34643,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EL,Greece,4.58,5.77
+34644,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ES,Spain,10.55,11.31
+34645,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),8.29,9.38 e
+34646,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FI,Finland,15.52,15.97
+34647,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FR,France,7.74,7.75
+34648,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HR,Croatia,3.62,9.62
+34649,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HU,Hungary,6.74,8.82
+34650,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IE,Ireland,14.94,:
+34651,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IS,Iceland,14.11,:
+34652,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IT,Italy,7.74,7.85
+34653,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LT,Lithuania,6.75,7.21
+34654,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LU,Luxembourg,12.6,14.95
+34655,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LV,Latvia,6.23,5.38
+34656,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ME,Montenegro,8.97,9.1
+34657,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MK,North Macedonia,3.34,:
+34658,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MT,Malta,8.88,11.47
+34659,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NL,Netherlands,15.57,18.25
+34660,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NO,Norway,17.68,21.43
+34661,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PL,Poland,6.61,7.67
+34662,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PT,Portugal,9.36,11.37
+34663,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RO,Romania,1.32,2.34
+34664,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RS,Serbia,2.38,12.26
+34665,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SE,Sweden,16.85,17.32
+34666,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SI,Slovenia,7.6,6.78
+34667,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SK,Slovakia,6.42,7.49
+34668,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,TR,Türkiye,3.07,3.4
+34669,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,6.61,:
+34670,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,15.51,15.02
+34671,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,2.2,4.49
+34672,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,8.99,10.02
+34673,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,1.93,2.82
+34674,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,14.04,16.15
+34675,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,6.84,8.25
+34676,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,9.27,11.05
+34677,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,7.48,9.91
+34678,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,15.37,16.41
+34679,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,9.45,10.27 e
+34680,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,8.75,11.56
+34681,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,5.43,6.41
+34682,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,10.97,11.64
+34683,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),8.99,9.95 e
+34684,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,15.71,16.1
+34685,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,8.31,8.2
+34686,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,3.93,10.51
+34687,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,7.36,9.37
+34688,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,15.07,:
+34689,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,14.14,:
+34690,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,8.93,8.61
+34691,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,7.6,8.15
+34692,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,12.76,15.02
+34693,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,6.66,5.69
+34694,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,10.16,9.72
+34695,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,3.65,:
+34696,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,9.8,12.29
+34697,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,16.59,18.39
+34698,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,17.72,21.45
+34699,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,7.3,8.44
+34700,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,10.68,12.45
+34701,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,1.49,2.51
+34702,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,2.64,13.33
+34703,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,17.33,17.65
+34704,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,8.22,7.18
+34705,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,7.02,8.27
+34706,M_Y25_64,Male age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,3.45,3.68
+34707,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AL,Albania,14.71,:
+34708,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AT,Austria,65.03,60.98
+34709,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,43.33,41.55
+34710,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BE,Belgium,60,63.38
+34711,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BG,Bulgaria,27.42,29.69
+34712,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CH,Switzerland,71.66,70.8
+34713,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CY,Cyprus,51.41,48.15
+34714,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CZ,Czechia,56.18,64.7
+34715,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DE,Germany,51.21,56.41
+34716,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DK,Denmark,58.53,57.28
+34717,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EA,Euro area,54.91,54.50 e
+34718,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EE,Estonia,51.42,58.13
+34719,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EL,Greece,54.88,59.15
+34720,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ES,Spain,57.56,52.69
+34721,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),52.34,52.32 e
+34722,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FI,Finland,70.29,71.47
+34723,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FR,France,58.28,53.69
+34724,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HR,Croatia,42.94,51.85
+34725,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HU,Hungary,49.18,50.71
+34726,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IE,Ireland,64.38,:
+34727,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IS,Iceland,78.15,:
+34728,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IT,Italy,45.73,45.33
+34729,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LT,Lithuania,43.69,43.08
+34730,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LU,Luxembourg,62.28,59.28
+34731,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LV,Latvia,41.6,40.57
+34732,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ME,Montenegro,62.03,65.45
+34733,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MK,North Macedonia,22.88,:
+34734,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MT,Malta,52.01,53.71
+34735,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NL,Netherlands,74.38,74.79
+34736,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NO,Norway,81.78,81.43
+34737,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PL,Poland,45.09,43.11
+34738,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PT,Portugal,52.38,54.64
+34739,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RO,Romania,21.63,19.59
+34740,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RS,Serbia,54.79,53.85
+34741,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SE,Sweden,70.76,73.78
+34742,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SI,Slovenia,56.88,47.34
+34743,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SK,Slovakia,54.26,44.81
+34744,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,TR,Türkiye,16.15,22
+34745,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,17.91,:
+34746,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,67.54,62.11
+34747,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,52.03,46.34
+34748,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,63.24,66.18
+34749,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,33.22,34.15
+34750,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,72.47,71.03
+34751,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,54.66,51.09
+34752,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,59.77,66.61
+34753,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,54.63,59.37
+34754,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,58.97,57.62
+34755,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,59.39,57.65 e
+34756,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,55.28,61.5
+34757,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,65.09,65.71
+34758,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,59.84,54.22
+34759,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),56.78,55.51 e
+34760,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,71.19,72.06
+34761,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,62.55,56.81
+34762,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,46.59,56.68
+34763,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,53.66,53.93
+34764,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,64.95,:
+34765,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,78.28,:
+34766,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,52.81,49.73
+34767,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,49.23,48.72
+34768,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,63.06,59.55
+34769,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,44.48,42.9
+34770,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,70.26,69.97
+34771,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,24.99,:
+34772,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,57.39,57.56
+34773,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,79.28,75.33
+34774,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,81.97,81.52
+34775,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,49.78,47.45
+34776,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,59.75,59.81
+34777,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,24.38,21.06
+34778,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,60.95,58.57
+34779,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,72.79,75.2
+34780,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,61.53,50.13
+34781,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,59.32,49.44
+34782,M_Y25_64,Male age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,18.16,23.79
+34783,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AL,Albania,18.8,:
+34784,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AT,Austria,69.34,74.01
+34785,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,61.88,59.94
+34786,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BE,Belgium,55.21,70.26
+34787,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BG,Bulgaria,40.49,43.41
+34788,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CH,Switzerland,82.21,79.07
+34789,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CY,Cyprus,52.56,54.17
+34790,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CZ,Czechia,62.17,73.88
+34791,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DE,Germany,57.86,64.84
+34792,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DK,Denmark,71.17,71.67
+34793,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EA,Euro area,62.7,64.53 e
+34794,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EE,Estonia,58.22,63.39
+34795,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EL,Greece,61.13,63.5
+34796,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ES,Spain,68.99,65.91
+34797,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),60.89,62.94 e
+34798,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FI,Finland,74.4,77.23
+34799,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FR,France,70.3,66.27
+34800,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HR,Croatia,92.13,86.36
+34801,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HU,Hungary,54.31,64.14
+34802,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IE,Ireland,69.63,:
+34803,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IS,Iceland,71.11,:
+34804,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IT,Italy,56.65,58.53
+34805,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LT,Lithuania,52.35,53.16
+34806,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LU,Luxembourg,68.1,67.16
+34807,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LV,Latvia,58.19,56.54
+34808,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ME,Montenegro,83.67,90.92
+34809,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MK,North Macedonia,41.59,:
+34810,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MT,Malta,56.54,54.3
+34811,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NL,Netherlands,74.86,74.83
+34812,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NO,Norway,68.74,71.26
+34813,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PL,Poland,55.62,59.71
+34814,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PT,Portugal,39.4,41.67
+34815,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RO,Romania,36.84,34.68
+34816,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RS,Serbia,70.67,65.47
+34817,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SE,Sweden,69.06,69.81
+34818,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SI,Slovenia,51.78,55.52
+34819,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SK,Slovakia,69.87,61.92
+34820,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,TR,Türkiye,30.35,29.64
+34821,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,22.89,:
+34822,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,72.02,75.38
+34823,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,74.31,66.85
+34824,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,58.18,73.35
+34825,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,49.06,49.94
+34826,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,83.13,79.33
+34827,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,55.89,57.48
+34828,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,66.14,76.05
+34829,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,61.71,68.25
+34830,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,71.71,72.1
+34831,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,67.82,68.26 e
+34832,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,62.59,67.06
+34833,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,72.52,70.53
+34834,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,71.72,67.83
+34835,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),66.06,66.78 e
+34836,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,75.35,77.86
+34837,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,75.45,70.12
+34838,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,99.98,94.39
+34839,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,59.26,68.21
+34840,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,70.25,:
+34841,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,71.22,:
+34842,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,65.42,64.2
+34843,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,58.98,60.12
+34844,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,68.96,67.48
+34845,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,62.23,59.78
+34846,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,94.77,97.19
+34847,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,45.41,:
+34848,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,62.39,58.19
+34849,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,79.79,75.38
+34850,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,68.9,71.35
+34851,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,61.4,65.73
+34852,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,44.95,45.62
+34853,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,41.51,37.28
+34854,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,78.61,71.21
+34855,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,71.05,71.15
+34856,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,56.02,58.8
+34857,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,76.38,68.32
+34858,M_Y25_64,Male age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,34.13,32.06
+34859,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AL,Albania,9.85,:
+34860,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AT,Austria,55.99,51.53
+34861,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,18.31,24.08
+34862,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BE,Belgium,52.15,54
+34863,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BG,Bulgaria,13.22,16.54
+34864,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CH,Switzerland,63,63.76
+34865,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CY,Cyprus,38.53,39.63
+34866,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CZ,Czechia,43.84,49.29
+34867,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DE,Germany,41.56,46.56
+34868,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DK,Denmark,58.91,57.73
+34869,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EA,Euro area,45.38,46.59 e
+34870,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EE,Estonia,45.24,51.35
+34871,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EL,Greece,38.3,45.5
+34872,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ES,Spain,45.77,45.88
+34873,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),42.9,44.25 e
+34874,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FI,Finland,61.58,62.58
+34875,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FR,France,47.21,46.16
+34876,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HR,Croatia,79.06,44.94
+34877,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HU,Hungary,40.33,42.14
+34878,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IE,Ireland,58.76,:
+34879,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IS,Iceland,71.36,:
+34880,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IT,Italy,40.16,41.31
+34881,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LT,Lithuania,38.08,37.34
+34882,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LU,Luxembourg,56.26,52.78
+34883,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LV,Latvia,33.16,30.58
+34884,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ME,Montenegro,35.19,41.25
+34885,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MK,North Macedonia,9.99,:
+34886,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MT,Malta,50.06,47.94
+34887,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NL,Netherlands,65.22,65.34
+34888,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NO,Norway,67.58,72.48
+34889,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PL,Poland,29.79,33.04
+34890,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PT,Portugal,41.55,43.38
+34891,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RO,Romania,18.95,18.18
+34892,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RS,Serbia,26.94,24.55
+34893,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SE,Sweden,56.35,61.45
+34894,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SI,Slovenia,38.57,37.16
+34895,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SK,Slovakia,45.2,38.47
+34896,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,TR,Türkiye,16.23,20.5
+34897,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,11.99,:
+34898,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,58.15,52.48
+34899,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,21.98,26.85
+34900,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,54.96,56.38
+34901,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,16.02,19.03
+34902,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,63.71,63.97
+34903,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,40.97,42.05
+34904,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,46.64,50.74
+34905,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,44.33,49
+34906,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,59.36,58.07
+34907,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,49.08,49.28 e
+34908,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,48.64,54.32
+34909,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,45.43,50.54
+34910,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,47.59,47.22
+34911,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),46.54,46.95 e
+34912,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,62.37,63.09
+34913,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,50.67,48.84
+34914,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,85.8,49.12
+34915,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,44.01,44.81
+34916,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,59.28,:
+34917,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,71.48,:
+34918,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,46.38,45.31
+34919,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,42.91,42.22
+34920,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,56.97,53.02
+34921,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,35.46,32.33
+34922,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,39.86,44.1
+34923,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,10.91,:
+34924,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,55.23,51.37
+34925,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,69.51,65.82
+34926,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,67.74,72.56
+34927,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,32.88,36.37
+34928,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,47.41,47.49
+34929,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,21.36,19.54
+34930,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,29.97,26.7
+34931,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,57.97,62.64
+34932,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,41.72,39.35
+34933,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,49.42,42.45
+34934,M_Y25_64,Male age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,18.25,22.17
+34935,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AL,Albania,3.34,:
+34936,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AT,Austria,36.06,33.33
+34937,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,6.09,7.41
+34938,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BE,Belgium,29.21,27.44
+34939,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BG,Bulgaria,5.78,8.45
+34940,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CH,Switzerland,33.25,35.19
+34941,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CY,Cyprus,20.92,24.09
+34942,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CZ,Czechia,23.37,28.4
+34943,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DE,Germany,32.17,36.38
+34944,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DK,Denmark,38.88,39.91
+34945,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EA,Euro area,29.79,29.97 e
+34946,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EE,Estonia,29.8,34.93
+34947,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EL,Greece,17.12,21.53
+34948,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ES,Spain,27.49,25.22
+34949,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),26.86,27.32 e
+34950,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FI,Finland,41.64,42.89
+34951,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FR,France,28.2,25.8
+34952,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HR,Croatia,54.66,27.43
+34953,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HU,Hungary,26.1,32.16
+34954,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IE,Ireland,35.31,:
+34955,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IS,Iceland,54.31,:
+34956,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IT,Italy,28.58,28.37
+34957,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LT,Lithuania,15.17,15.31
+34958,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LU,Luxembourg,36.32,32.89
+34959,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LV,Latvia,16.99,12.22
+34960,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ME,Montenegro,18.78,25.47
+34961,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MK,North Macedonia,6.03,:
+34962,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MT,Malta,37.4,36.88
+34963,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NL,Netherlands,44.41,43.19
+34964,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NO,Norway,36.97,41.54
+34965,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PL,Poland,12.05,12.54
+34966,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PT,Portugal,22.61,22.8
+34967,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RO,Romania,5.53,5.19
+34968,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RS,Serbia,9.83,4.28
+34969,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SE,Sweden,28.75,31.7
+34970,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SI,Slovenia,20.01,26.58
+34971,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SK,Slovakia,25.14,24.96
+34972,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,TR,Türkiye,9.33,10.7
+34973,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AL,Albania,4.06,:
+34974,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,AT,Austria,37.45,33.94
+34975,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BA,Bosnia and Herzegovina,7.31,8.27
+34976,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BE,Belgium,30.78,28.64
+34977,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,BG,Bulgaria,7,9.72
+34978,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CH,Switzerland,33.63,35.3
+34979,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CY,Cyprus,22.24,25.57
+34980,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,CZ,Czechia,24.86,29.23
+34981,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DE,Germany,34.31,38.29
+34982,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,DK,Denmark,39.17,40.15
+34983,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EA,Euro area,32.22,31.70 e
+34984,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EE,Estonia,32.04,36.95
+34985,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EL,Greece,20.31,23.91
+34986,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ES,Spain,28.58,25.95
+34987,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,EU27_2020,European Union - 27 countries (from 2020),29.14,28.99 e
+34988,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FI,Finland,42.18,43.24
+34989,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,FR,France,30.26,27.3
+34990,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HR,Croatia,59.32,29.98
+34991,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,HU,Hungary,28.48,34.2
+34992,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IE,Ireland,35.62,:
+34993,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IS,Iceland,54.4,:
+34994,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,IT,Italy,33,31.12
+34995,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LT,Lithuania,17.1,17.31
+34996,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LU,Luxembourg,36.78,33.04
+34997,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,LV,Latvia,18.17,12.92
+34998,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,ME,Montenegro,21.27,27.23
+34999,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MK,North Macedonia,6.58,:
+35000,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,MT,Malta,41.27,39.52
+35001,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NL,Netherlands,47.33,43.5
+35002,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,NO,Norway,37.06,41.58
+35003,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PL,Poland,13.3,13.81
+35004,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,PT,Portugal,25.8,24.96
+35005,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RO,Romania,6.23,5.57
+35006,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,RS,Serbia,10.93,4.66
+35007,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SE,Sweden,29.57,32.31
+35008,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SI,Slovenia,21.64,28.15
+35009,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,SK,Slovakia,27.48,27.54
+35010,M_Y25_64,Male age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND_IU3,% people who have used the internet in the last 3 months,TR,Türkiye,10.49,11.57

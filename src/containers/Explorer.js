@@ -74,7 +74,7 @@ function Explorer() {
           
             for (const item of data) {
               const geoCode = item.geo;
-              const value = parseFloat(item['2021'] || 0); // Handle potential missing values
+              const value = parseFloat(item[formData["year"]] || 0); // Handle potential missing values
               const indicatorCode = item.indicator_code;
           
               // Categorize based on indicator code prefix (assuming basic starts with "B_", etc.)

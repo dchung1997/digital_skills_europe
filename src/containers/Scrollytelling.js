@@ -111,7 +111,7 @@ function ScrollyTelling() {
                 </p>
               </Col>              
               <Col sm>
-                <Image src='/population_distribution.png'/>
+                <Image src='./population_distribution.png'/>
                 <small>
                   Source: 
                   <a href="https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Urban-rural_Europe_-_introduction">

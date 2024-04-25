@@ -47,7 +47,7 @@ function Cover() {
                 </p>
             </Col>
             <Col sm>
-                <ChoroplethMap width={400} height={400} text={false} data={chartData} absolute={true}/>
+                <ChoroplethMap width={400} height={400} data={chartData} absolute={true}/>
                 <small>Basic Digital Literacy Rates (%) Working Age Adults 25-64 </small>
             </Col>
             <Col sm></Col>

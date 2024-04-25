@@ -51,19 +51,19 @@ function Indicators() {
                 <Row>
                     <Col>
                         <h5>Changed the settings of software, app or device</h5>
-                        { data['I_CCONF1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CCONF1']} absolute={true} interpolate={d3.interpolateBlues}/> : <></>}
+                        { data['I_CCONF1'] ? <ChoroplethMap width={400} height={400} data={data['I_CCONF1']} absolute={true} interpolate={"interpolateBlues"}/> : <></>}
                     </Col>
                     <Col>
                         <h5>Edited photos, video or audio files</h5>
-                        { data['I_CEPVA1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CEPVA1']} absolute={true} interpolate={d3.interpolateBlues}/> : <></>}
+                        { data['I_CEPVA1'] ? <ChoroplethMap width={400} height={400} data={data['I_CEPVA1']} absolute={true} interpolate={"interpolateBlues"}/> : <></>}
                     </Col>                    
                     <Col>
                         <h5>Downloaded or installed software or apps</h5>
-                        { data['I_CINSAPP1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CINSAPP1']} absolute={true} interpolate={d3.interpolateBlues}/> : <></>}
+                        { data['I_CINSAPP1'] ? <ChoroplethMap width={400} height={400} data={data['I_CINSAPP1']} absolute={true} interpolate={"interpolateBlues"}/> : <></>}
                     </Col>      
                     <Col>
                         <h5>Copied or moved files between folders, devices or on the cloud</h5>
-                        { data['I_CXFER1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CXFER1']} absolute={true} interpolate={d3.interpolateBlues}/> : <></>}
+                        { data['I_CXFER1'] ? <ChoroplethMap width={400} height={400} data={data['I_CXFER1']} absolute={true} interpolate={"interpolateBlues"}/> : <></>}
                     </Col>                                  
                 </Row>
             </Col>
@@ -76,15 +76,15 @@ function Indicators() {
                     <h5>Intermediate Digital Literacy</h5>
                     <Col>
                         <h5>Created files integrating elements such as text, pictures, tables, charts</h5>
-                        { data['I_CPRES2'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CPRES2']} absolute={true} interpolate={d3.interpolateOranges}/> : <></>}
+                        { data['I_CPRES2'] ? <ChoroplethMap width={400} height={400} data={data['I_CPRES2']} absolute={true} interpolate={"interpolateOranges"}/> : <></>}
                     </Col>       
                     <Col>
                         <h5>Used word processing software</h5>
-                        { data['I_CWRD1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CWRD1']} absolute={true} interpolate={d3.interpolateOranges}/> : <></>}
+                        { data['I_CWRD1'] ? <ChoroplethMap width={400} height={400} data={data['I_CWRD1']} absolute={true} interpolate={"interpolateOranges"}/> : <></>}
                     </Col>                    
                     <Col>
                         <h5>Used spreadsheet software</h5>
-                        { data['I_CXLS1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CXLS1']} absolute={true} interpolate={d3.interpolateOranges}/> : <></>}
+                        { data['I_CXLS1'] ? <ChoroplethMap width={400} height={400} data={data['I_CXLS1']} absolute={true} interpolate={"interpolateOranges"}/> : <></>}
                     </Col> 
                 </Row>                             
             </Col>
@@ -97,11 +97,11 @@ function Indicators() {
                     <h5>Advanced Digital Literacy</h5>
                     <Col>
                         <h5>Used advanced features of spreadsheet software</h5>
-                        { data['I_CXLSADV1'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CXLSADV1']} absolute={true} interpolate={d3.interpolateYlGn}/> : <></>}
+                        { data['I_CXLSADV1'] ? <ChoroplethMap width={400} height={400} data={data['I_CXLSADV1']} absolute={true} interpolate="interpolateYlGn"/> : <></>}
                     </Col>                    
                     <Col>
                         <h5>Written code in a programming language</h5>
-                        { data['I_CPRG2'] ? <ChoroplethMap width={400} height={400} text={false} data={data['I_CPRG2']} absolute={true} interpolate={d3.interpolateYlGn}/> : <></>}
+                        { data['I_CPRG2'] ? <ChoroplethMap width={400} height={400} data={data['I_CPRG2']} absolute={true} interpolate="interpolateYlGn"/> : <></>}
                     </Col>                       
                 </Row>
             </Col>

@@ -8,6 +8,11 @@ const ChoroplethMap = ({ width, height, data, absolute, interpolate, year=2021})
     
   useEffect(() => {
     const svg = d3.select(svgRef.current);
+    const interpolate_check = {
+        "interpolateBlues": d3.interpolateBlues,
+        "interpolateOranges": d3.interpolateOranges,
+        "interpolateYlGn": d3.interpolateYlGn
+    }
 
     // Define projection (adjust based on your map data)
     const projection = d3.geoConicConformal()
@@ -16,7 +21,7 @@ const ChoroplethMap = ({ width, height, data, absolute, interpolate, year=2021})
     .scale(width * 1.3)
 
     // Color scale based on your data value (replace 'value' with your property name)
-    const interpolater = interpolate ? interpolate : d3.interpolateYlGnBu;
+    const interpolater = interpolate ? interpolate_check[interpolate] : d3.interpolateYlGnBu;
     const scale = absolute ? d3.scaleSequential([0, 100], interpolater) : d3.scaleSequential(d3.extent(data, (d) => parseInt(d[year])), interpolater);
     const geoPath = d3.geoPath().projection(projection);
 
@@ -25,7 +30,22 @@ const ChoroplethMap = ({ width, height, data, absolute, interpolate, year=2021})
         .data(geojson.features)
         .join(
             enter => enter.append('path')
-                .attr('d', geoPath),
+                .attr('d', geoPath)
+                .attr('fill', function(d) {
+                    const element = data.find(function(e){
+                        if (d.id === 'GR') {
+                            return e['geo_code'] === 'EL';
+                        }
+                        return e['geo_code'] === d.id;
+                    }); 
+
+                    if (element) {
+                        return scale(element[year]);
+                    }
+                    return 'lightgrey';
+                })
+                .attr('stroke-width', 0.5)
+                .attr('stroke', 'black'),                
             update => update
                 .attr('fill', function(d) {
                     const element = data.find(function(e){
@@ -34,6 +54,7 @@ const ChoroplethMap = ({ width, height, data, absolute, interpolate, year=2021})
                         }
                         return e['geo_code'] === d.id;
                     }); 
+
                     if (element) {
                         return scale(element[year]);
                     }

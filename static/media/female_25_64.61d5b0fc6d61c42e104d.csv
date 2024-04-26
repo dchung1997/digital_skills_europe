@@ -1,0 +1,343 @@
+row_id,population_code,population,indicator_code,indicator,unit_code,unit,geo_code,geo,2021,2023
+13033,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AL,Albania,5.59,:
+13034,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,AT,Austria,42.7,40.21
+13035,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,17.33,29.37
+13036,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BE,Belgium,10.97,28.42
+13037,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,BG,Bulgaria,19.2,24.22
+13038,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CH,Switzerland,37.87,44.62
+13039,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CY,Cyprus,43.72,50.57
+13040,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,CZ,Czechia,14.22,37.70 b
+13041,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DE,Germany,20.45,38.17
+13042,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,DK,Denmark,47.44,49.32
+13043,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EA,Euro area,35.11,39.40 e
+13044,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EE,Estonia,36.33,43.7
+13045,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EL,Greece,25.11,26.21
+13046,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ES,Spain,41.86,42.84
+13047,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),33.51,38.49 e
+13048,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FI,Finland,61.04,58.32
+13049,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,FR,France,43.32,37.54
+13050,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HR,Croatia,31.57,42.37
+13051,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,HU,Hungary,26.51,35.17
+13052,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IE,Ireland,45.59,:
+13053,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IS,Iceland,50.99,:
+13054,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,IT,Italy,41.23,42.38
+13055,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LT,Lithuania,39.64,41.28
+13056,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LU,Luxembourg,35.27,35.07
+13057,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,LV,Latvia,39.48,33.85
+13058,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,ME,Montenegro,21.5,25.84
+13059,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MK,North Macedonia,5.84,:
+13060,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,MT,Malta,30.05,36.94
+13061,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NL,Netherlands,57.32,60.69
+13062,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,NO,Norway,53.2,53.72
+13063,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PL,Poland,33.31,41.03
+13064,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,PT,Portugal,14.71,15.23
+13065,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RO,Romania,15.72,17.92
+13066,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,RS,Serbia,28,37.15
+13067,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SE,Sweden,45.32,45.56
+13068,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SI,Slovenia,30.74,37.24
+13069,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,SK,Slovakia,23.56,23.1
+13070,F_Y25_64,Female age 25-64,I_CCONF1,"Changed the settings of software, app or device, last 3 months",PC_IND,% people,TR,Türkiye,16.39,17.44
+13109,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AL,Albania,18.45,:
+13110,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,AT,Austria,45.69,47.16
+13111,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,9.95,18.91
+13112,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BE,Belgium,23.56,26.28
+13113,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,BG,Bulgaria,18.55,21.9
+13114,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CH,Switzerland,36.07,37.22
+13115,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CY,Cyprus,15.18,36.72
+13116,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,CZ,Czechia,28.97,30.5
+13117,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DE,Germany,30.65,35.67
+13118,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,DK,Denmark,29.46,30.57
+13119,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EA,Euro area,35.03,36.46 e
+13120,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EE,Estonia,36.76,41.98
+13121,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EL,Greece,19.77,21.04
+13122,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ES,Spain,39.8,41.01
+13123,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),32.14,34.19 e
+13124,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FI,Finland,58.25,65.82
+13125,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,FR,France,41.71,39.57
+13126,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HR,Croatia,23.48,15.99
+13127,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,HU,Hungary,21.11,25.86
+13128,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IE,Ireland,46.5,:
+13129,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IS,Iceland,42.31,:
+13130,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,IT,Italy,27.66,28.89
+13131,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LT,Lithuania,41.15,41.07
+13132,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LU,Luxembourg,43.82,38.53
+13133,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,LV,Latvia,25.04,21.29
+13134,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,ME,Montenegro,15.24,28.28
+13135,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MK,North Macedonia,7.59,:
+13136,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,MT,Malta,33.94,36.58
+13137,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NL,Netherlands,46.32,50.21
+13138,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,NO,Norway,36.8,40.63
+13139,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PL,Poland,22.77,29.33
+13140,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,PT,Portugal,42.79,42.29
+13141,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RO,Romania,14.9,16.09
+13142,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,RS,Serbia,17.55,1.38
+13143,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SE,Sweden,31.96,31.3
+13144,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SI,Slovenia,29.36,31.51
+13145,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,SK,Slovakia,20.7,20.02
+13146,F_Y25_64,Female age 25-64,I_CEPVA1,"Edited photos, video or audio files, last 3 months",PC_IND,% people,TR,Türkiye,19.47,24.02
+13185,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AL,Albania,24.27,:
+13186,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,AT,Austria,52.11,54.22
+13187,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,33.46,48.27
+13188,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BE,Belgium,39.6,42.67
+13189,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,BG,Bulgaria,24.74,28.44
+13190,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CH,Switzerland,58.53,63.01
+13191,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CY,Cyprus,55.09,52.75
+13192,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,CZ,Czechia,48.64,62.26
+13193,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DE,Germany,40.64,50.32
+13194,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,DK,Denmark,59.98,60.87
+13195,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EA,Euro area,50.43,52.76 e
+13196,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EE,Estonia,49.11,56.19
+13197,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EL,Greece,42.26,44.47
+13198,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ES,Spain,61.4,63.54
+13199,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),48.03,51.49 e
+13200,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FI,Finland,72.56,79.01
+13201,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,FR,France,57.03,51.35
+13202,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HR,Croatia,41,45.1
+13203,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,HU,Hungary,31.17,37.16
+13204,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IE,Ireland,58.8,:
+13205,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IS,Iceland,72.47,:
+13206,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,IT,Italy,48.03,49.13
+13207,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LT,Lithuania,45.8,49.89
+13208,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LU,Luxembourg,53.13,49.34
+13209,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,LV,Latvia,46.52,38.94
+13210,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,ME,Montenegro,48.13,50.2
+13211,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MK,North Macedonia,16.93,:
+13212,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,MT,Malta,59.81,61.4
+13213,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NL,Netherlands,69.65,75.41
+13214,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,NO,Norway,72.94,72.64
+13215,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PL,Poland,42.81,53.58
+13216,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,PT,Portugal,33.93,35.39
+13217,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RO,Romania,22.03,24.14
+13218,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,RS,Serbia,46.97,53.35
+13219,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SE,Sweden,65.26,65.93
+13220,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SI,Slovenia,38.14,38.09
+13221,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,SK,Slovakia,36.3,35.5
+13222,F_Y25_64,Female age 25-64,I_CINSAPP1,"Downloaded or installed software or apps, last 3 months",PC_IND,% people,TR,Türkiye,25.99,28.6
+13261,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AL,Albania,12.24,:
+13262,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,AT,Austria,45.77,42.75
+13263,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,25.3,26.34
+13264,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BE,Belgium,41.8,45.53
+13265,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,BG,Bulgaria,21.68,27.11
+13266,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CH,Switzerland,41.12,44.72
+13267,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CY,Cyprus,35.11,50.08
+13268,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,CZ,Czechia,28.27,40
+13269,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DE,Germany,21.11,23.03
+13270,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,DK,Denmark,56.56,48.29
+13271,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EA,Euro area,38.84,39.24 e
+13272,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EE,Estonia,38.9,46.38
+13273,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EL,Greece,32.5,32.25
+13274,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ES,Spain,46.7,51.62
+13275,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),37.35,38.34 e
+13276,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FI,Finland,56.68,60.09
+13277,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,FR,France,48.33,43.13
+13278,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HR,Croatia,30.53,32.36
+13279,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,HU,Hungary,26.27,32.07
+13280,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IE,Ireland,50.3,:
+13281,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IS,Iceland,48.99,:
+13282,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,IT,Italy,38.62,39.94
+13283,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LT,Lithuania,35.76,35.27
+13284,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LU,Luxembourg,40.67,39.67
+13285,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,LV,Latvia,38.52,35.13
+13286,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,ME,Montenegro,37.72,38.57
+13287,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MK,North Macedonia,16.46,:
+13288,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,MT,Malta,40.4,45.49
+13289,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NL,Netherlands,53.76,55.59
+13290,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,NO,Norway,62.84,61.28
+13291,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PL,Poland,34.54,36.28
+13292,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,PT,Portugal,46.68,46
+13293,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RO,Romania,23.99,23.35
+13294,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,RS,Serbia,22.29,32.78
+13295,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SE,Sweden,47.55,50.21
+13296,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SI,Slovenia,41.92,40.44
+13297,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,SK,Slovakia,35.14,35.88
+13298,F_Y25_64,Female age 25-64,I_CPRES2,"Created files integrating elements such as text, pictures, tables, charts, animations or sound, last 3 months",PC_IND,% people,TR,Türkiye,11.07,13.73
+13337,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AL,Albania,4.72,:
+13338,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,AT,Austria,3.83,4.38
+13339,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,1.64,2.43
+13340,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BE,Belgium,0.87,1.78
+13341,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,BG,Bulgaria,0.61,0.87
+13342,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CH,Switzerland,2.33,4.77
+13343,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CY,Cyprus,4.75,4.3
+13344,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,CZ,Czechia,2.36,3.38
+13345,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DE,Germany,1.9,2.06
+13346,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,DK,Denmark,6.13,6.69
+13347,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EA,Euro area,3.03,3.16 e
+13348,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EE,Estonia,2.17,4.12
+13349,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EL,Greece,2.62,2.74
+13350,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ES,Spain,4.73,5.17
+13351,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),2.94,3.14 e
+13352,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FI,Finland,5.11,5.31
+13353,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,FR,France,2.02,1.58
+13354,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HR,Croatia,1.72,1.46
+13355,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,HU,Hungary,1.48,1.3
+13356,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IE,Ireland,3.24,:
+13357,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IS,Iceland,5.63,:
+13358,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,IT,Italy,4.25,3.93
+13359,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LT,Lithuania,1.91,4.01
+13360,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LU,Luxembourg,2.53,3.96
+13361,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,LV,Latvia,2.54,2.14
+13362,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,ME,Montenegro,3.74,7.94
+13363,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MK,North Macedonia,3.28,:
+13364,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,MT,Malta,8.17,7.39
+13365,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NL,Netherlands,3.42,5.19
+13366,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,NO,Norway,7.68,4.94
+13367,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PL,Poland,3.55,3.69
+13368,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,PT,Portugal,4.44,5.68
+13369,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RO,Romania,0.69,1.03
+13370,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,RS,Serbia,0.66,11.86
+13371,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SE,Sweden,4.47,5.22
+13372,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SI,Slovenia,2.48,1.5
+13373,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,SK,Slovakia,1.3,1.15
+13374,F_Y25_64,Female age 25-64,I_CPRG2,"Written code in a programming language, last 3 months",PC_IND,% people,TR,Türkiye,1.12,1.94
+13413,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AL,Albania,14.76,:
+13414,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,AT,Austria,58.49,55.71
+13415,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,39.28,41.43
+13416,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BE,Belgium,54.13,55.67
+13417,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,BG,Bulgaria,31.61,36.7
+13418,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CH,Switzerland,63.16,65.89
+13419,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CY,Cyprus,58.34,53.02
+13420,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,CZ,Czechia,58.28,65.2
+13421,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DE,Germany,45.23,50.4
+13422,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,DK,Denmark,45.87,43.34
+13423,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EA,Euro area,53.17,52.27 e
+13424,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EE,Estonia,56.95,61.44
+13425,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EL,Greece,56.54,60.24
+13426,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ES,Spain,55.7,53.82
+13427,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),51.11,50.66 e
+13428,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FI,Finland,77.52,77.77
+13429,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,FR,France,62.2,52.99
+13430,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HR,Croatia,42.4,42.94
+13431,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,HU,Hungary,49.78,52.7
+13432,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IE,Ireland,59.69,:
+13433,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IS,Iceland,80.94,:
+13434,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,IT,Italy,42.66,43.18
+13435,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LT,Lithuania,50.18,51.16
+13436,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LU,Luxembourg,54.61,49.47
+13437,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,LV,Latvia,48.85,48.59
+13438,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,ME,Montenegro,60.98,64.03
+13439,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MK,North Macedonia,21.27,:
+13440,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,MT,Malta,58.79,58.74
+13441,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NL,Netherlands,71.24,72.73
+13442,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,NO,Norway,78.21,75.8
+13443,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PL,Poland,46.31,45.1
+13444,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,PT,Portugal,56.08,54.5
+13445,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RO,Romania,21.63,19.73
+13446,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,RS,Serbia,47.66,54.58
+13447,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SE,Sweden,70.14,72.06
+13448,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SI,Slovenia,62.28,48.66
+13449,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,SK,Slovakia,51.51,42.62
+13450,F_Y25_64,Female age 25-64,I_CWRD1,"Used word processing software, last 3 months",PC_IND,% people,TR,Türkiye,10.11,15.82
+13489,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AL,Albania,17.75,:
+13490,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,AT,Austria,66.35,68.88
+13491,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,60.85,60.86
+13492,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BE,Belgium,45.38,65.57
+13493,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,BG,Bulgaria,43.84,47.33
+13494,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CH,Switzerland,81.51,77.37
+13495,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CY,Cyprus,58.45,57.34
+13496,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,CZ,Czechia,60.98,71.9
+13497,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DE,Germany,51.59,59.65
+13498,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,DK,Denmark,62.82,64.36
+13499,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EA,Euro area,59.79,62.66 e
+13500,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EE,Estonia,57.49,62.97
+13501,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EL,Greece,59.36,62.9
+13502,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ES,Spain,66.45,66.44
+13503,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),57.95,61.11 e
+13504,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FI,Finland,78.41,79.57
+13505,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,FR,France,72.68,67.94
+13506,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HR,Croatia,84.82,83.15
+13507,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,HU,Hungary,50.91,64.98
+13508,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IE,Ireland,66.05,:
+13509,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IS,Iceland,63.76,:
+13510,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,IT,Italy,51.83,55.07
+13511,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LT,Lithuania,56.49,59.83
+13512,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LU,Luxembourg,62.88,62.38
+13513,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,LV,Latvia,62.74,63.76
+13514,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,ME,Montenegro,84.52,89.82
+13515,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MK,North Macedonia,31.65,:
+13516,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,MT,Malta,50.73,52.59
+13517,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NL,Netherlands,70.12,73.66
+13518,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,NO,Norway,63.07,59.13
+13519,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PL,Poland,52.73,58.67
+13520,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,PT,Portugal,41.22,40.43
+13521,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RO,Romania,33.81,33.38
+13522,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,RS,Serbia,61.22,65.98
+13523,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SE,Sweden,61.88,62.79
+13524,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SI,Slovenia,52.43,54.25
+13525,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,SK,Slovakia,66.92,63.24
+13526,F_Y25_64,Female age 25-64,I_CXFER1,"Copied or moved files between folders, devices or on the cloud, last 3 months",PC_IND,% people,TR,Türkiye,21.21,22.76
+13565,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AL,Albania,10.29,:
+13566,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,AT,Austria,40.35,37.89
+13567,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,19.73,24.33
+13568,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BE,Belgium,42.38,43.81
+13569,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,BG,Bulgaria,17.04,20.76
+13570,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CH,Switzerland,48.05,55.73
+13571,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CY,Cyprus,46.26,40.93
+13572,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,CZ,Czechia,42.48,46.37
+13573,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DE,Germany,30.79,35.36
+13574,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,DK,Denmark,43.28,45.15
+13575,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EA,Euro area,38.29,39.15 e
+13576,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EE,Estonia,45.3,50.94
+13577,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EL,Greece,38.4,39.58
+13578,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ES,Spain,40.82,40.83
+13579,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),36.94,38.08 e
+13580,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FI,Finland,51.54,57.58
+13581,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,FR,France,44.58,41.09
+13582,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HR,Croatia,69.11,31.32
+13583,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,HU,Hungary,36.67,39.39
+13584,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IE,Ireland,44.86,:
+13585,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IS,Iceland,68.46,:
+13586,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,IT,Italy,31.79,33.66
+13587,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LT,Lithuania,44.53,44.44
+13588,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LU,Luxembourg,39.98,37.67
+13589,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,LV,Latvia,36.62,35.68
+13590,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,ME,Montenegro,31.26,37.41
+13591,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MK,North Macedonia,6.31,:
+13592,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,MT,Malta,46.02,51.34
+13593,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NL,Netherlands,52.15,56.84
+13594,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,NO,Norway,52.98,54.14
+13595,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PL,Poland,29.62,34.06
+13596,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,PT,Portugal,42.27,41.34
+13597,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RO,Romania,18.78,19.42
+13598,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,RS,Serbia,21.46,26.62
+13599,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SE,Sweden,46.23,49.44
+13600,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SI,Slovenia,35.18,35.07
+13601,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,SK,Slovakia,40.79,33.92
+13602,F_Y25_64,Female age 25-64,I_CXLS1,"Used spreadsheet software, last 3 months",PC_IND,% people,TR,Türkiye,10.08,13.94
+13641,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AL,Albania,4.49,:
+13642,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,AT,Austria,21.97,18.38
+13643,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BA,Bosnia and Herzegovina,6.74,7.81
+13644,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BE,Belgium,17,13.82
+13645,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,BG,Bulgaria,6.73,10.26
+13646,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CH,Switzerland,18.45,24.3
+13647,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CY,Cyprus,20.78,22.69
+13648,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,CZ,Czechia,17.8,21.26
+13649,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DE,Germany,21.64,23.94
+13650,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,DK,Denmark,21.49,22.61
+13651,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EA,Euro area,21.3,20.79 e
+13652,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EE,Estonia,27.39,31.26
+13653,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EL,Greece,17.25,20.01
+13654,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ES,Spain,23.96,20.42
+13655,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,EU27_2020,European Union - 27 countries (from 2020),19.3,19.10 e
+13656,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FI,Finland,28.07,29.16
+13657,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,FR,France,20.99,17
+13658,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HR,Croatia,46.09,14.38
+13659,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,HU,Hungary,19.44,26.17
+13660,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IE,Ireland,22.84,:
+13661,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IS,Iceland,48.15,:
+13662,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,IT,Italy,19.46,19.76
+13663,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LT,Lithuania,16.47,15.54
+13664,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LU,Luxembourg,21.55,17.73
+13665,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,LV,Latvia,16.15,13.98
+13666,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,ME,Montenegro,22.94,18.76
+13667,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MK,North Macedonia,4.39,:
+13668,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,MT,Malta,32.92,31.6
+13669,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NL,Netherlands,26.09,30.56
+13670,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,NO,Norway,20.14,19.55
+13671,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PL,Poland,9.81,9.88
+13672,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,PT,Portugal,17.87,20.88
+13673,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RO,Romania,4.76,5.26
+13674,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,RS,Serbia,6.3,4.34
+13675,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SE,Sweden,14.58,16.04
+13676,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SI,Slovenia,14.93,21.74
+13677,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,SK,Slovakia,20.03,17.68
+13678,F_Y25_64,Female age 25-64,I_CXLSADV1,"Used advanced features of spreadsheet software to organise, analyse, structure or modify data, last 3 months",PC_IND,% people,TR,Türkiye,5.04,6.91
